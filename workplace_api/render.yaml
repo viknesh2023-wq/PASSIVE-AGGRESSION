@@ -1,0 +1,16 @@
+# Render Blueprint Specification for Workplace Passive-Aggression API
+# Deploy free of cost on Render (https://render.com)
+services:
+  - type: web
+    name: workplace-pa-detector-api
+    env: python
+    region: oregon
+    plan: free
+    rootDir: workplace_api
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.0

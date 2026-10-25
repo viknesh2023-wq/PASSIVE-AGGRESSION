@@ -114,7 +114,8 @@ def main():
         st.markdown("---")
         st.markdown("**Navigation**")
         st.page_link("streamlit_app.py",                    label="🏠 Home")
-        st.page_link("pages/1_analyze_comment.py",          label="💬 Analyze Comment")
+        st.page_link("pages/0_unified_router.py",           label="🧭 Unified Router & Detector")
+        st.page_link("pages/1_analyze_comment.py",          label="💬 Analyze Comment (Social)")
         st.page_link("pages/2_analyze_conversation.py",     label="🧵 Analyze Conversation")
         st.page_link("pages/3_rewrite_comment.py",          label="✏️ Rewrite Comment")
         st.page_link("pages/4_history.py",                  label="📋 History")
@@ -128,9 +129,9 @@ def main():
     with col1:
         st.markdown("# PassiveAggression Detector 2.0")
         st.markdown(
-            "<p style='color:#888;font-size:1.05rem;'>An English-only social-media analysis system "
-            "that detects passive aggression, identifies threatening language, and provides constructive "
-            "meaning-preserving rewrites in posts, comments, and conversation threads.</p>",
+            "<p style='color:#888;font-size:1.05rem;'>A unified passive-aggression detection platform. "
+            "Features a <b>Gemini Context Query Router</b> that intelligently dispatches statements between "
+            "specialized <b>Social-Media</b> and <b>Workplace</b> detection engines.</p>",
             unsafe_allow_html=True,
         )
     with col2:
@@ -138,13 +139,26 @@ def main():
 
     st.markdown("---")
 
+    # ── Featured Unified Router Banner ─────────────────────────────────────────
+    st.markdown("""
+    <div class='pa-card' style='border-left: 4px solid #3182ce; background: #0c121c;'>
+        <div style='display:flex; justify-content:space-between; align-items:center;'>
+            <div>
+                <span style='background:#1A365D; color:#63B3ED; border:1px solid #3182ce; border-radius:4px; padding:2px 8px; font-size:0.78rem; font-weight:700;'>NEW · UNIFIED PLATFORM</span>
+                <h3 style='color:#fff; margin:0.4rem 0 0.2rem 0;'>🧭 Gemini Context Router & Multi-Domain Engine</h3>
+                <p style='color:#aaa; font-size:0.9rem; margin:0;'>Submit any statement once. Gemini routes to Social Media vs. Workplace API automatically with full explainability.</p>
+            </div>
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
+
     # ── Feature Cards ──────────────────────────────────────────────────────────
     c1, c2, c3, c4 = st.columns(4)
 
     with c1:
         st.markdown("""<div class='pa-card'>
-<h3>💬 Analyze Comment</h3>
-<p style='color:#888;'>Analyse a single message with dual ML and rule-based detectors, independent threat classification, and tactic breakdowns.</p>
+<h3>💬 Social Detector</h3>
+<p style='color:#888;'>Analyse online comments with dual ML and 10-family rule detectors, independent threat classification, and tactic breakdowns.</p>
 </div>""", unsafe_allow_html=True)
 
     with c2:
@@ -274,14 +288,17 @@ def main():
     # ── Quick Start ────────────────────────────────────────────────────────────
     st.markdown("## Quick Start")
     st.markdown(
-        "Use the **Analyze Comment** page to analyse a message with realistic preset examples, "
-        "or inspect **Insights & Metrics** for full offline evaluation results and dataset distributions."
+        "Try the new **Unified Router** to test statements across both Social Media and Workplace domains, "
+        "or jump directly into dedicated social comment analysis."
     )
-    col_cta1, col_cta2 = st.columns([1, 4])
+    col_cta1, col_cta2, col_cta3 = st.columns([1.5, 1.5, 3])
     with col_cta1:
-        if st.button("→ Analyze Comment", type="primary", key="home_cta_analyze"):
-            st.switch_page("pages/1_analyze_comment.py")
+        if st.button("🧭 Launch Unified Router", type="primary", key="home_cta_unified"):
+            st.switch_page("pages/0_unified_router.py")
     with col_cta2:
+        if st.button("💬 Social Comment Analyzer", key="home_cta_analyze"):
+            st.switch_page("pages/1_analyze_comment.py")
+    with col_cta3:
         if st.button("📊 View Full Dataset & Metrics", key="home_cta_metrics"):
             st.switch_page("pages/5_insights.py")
 

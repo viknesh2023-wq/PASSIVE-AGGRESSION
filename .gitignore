@@ -43,6 +43,7 @@ models/xlmr_pa_detector/
 *.sqlite
 *.sqlite3
 backups/
+external/
 
 # Frontend legacy / Node
 node_modules/
