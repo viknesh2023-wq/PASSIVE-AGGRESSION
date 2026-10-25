@@ -22,6 +22,7 @@ from inference.unified_orchestrator import (
     check_workplace_api_health,
     get_workplace_api_url,
 )
+from inference.query_router import _get_gemini_api_key
 from inference.pa_inference import get_model_info
 
 st.set_page_config(
@@ -57,19 +58,35 @@ def _render_sidebar(wp_health: dict):
         st.markdown("<p class='muted'>Unified Multi-Domain Platform</p>", unsafe_allow_html=True)
         st.markdown("---")
 
+        with st.expander("⚙️ API Configuration", expanded=False):
+            ui_gemini_key = st.text_input(
+                "Gemini API Key (Optional)",
+                type="password",
+                value=st.session_state.get("cfg_gemini_key", ""),
+                key="cfg_gemini_key",
+                help="Paste a free Google AI Studio Gemini API key here to activate Gemini 2.0 Flash context classification.",
+            )
+            if ui_gemini_key:
+                st.caption("🔒 Key loaded into current session.")
+            else:
+                st.caption("💡 No key? The built-in heuristic router classifies domains automatically!")
+
+            wp_url = st.text_input("Workplace API URL", value=get_workplace_api_url(), key="cfg_wp_url")
+            st.caption(f"Current endpoint: `{wp_url}`")
+
         # Router Status
-        has_gemini = bool(os.environ.get("GEMINI_API_KEY") or (hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets))
+        has_gemini = bool(_get_gemini_api_key())
         if has_gemini:
-            st.success("✅ Gemini Router: Active")
+            st.success("✅ Gemini Router: Active (LLM)")
         else:
-            st.info("ℹ️ Gemini: Heuristic Fallback (Set GEMINI_API_KEY for LLM)")
+            st.info("ℹ️ Router: Smart Heuristic Fallback (Active)")
 
         # Workplace API Status
         if wp_health.get("is_available"):
             if wp_health.get("status") == "local_fallback_ready":
                 st.success("✅ Workplace: Local Model Ready")
             else:
-                st.success(f"✅ Workplace API: Ready")
+                st.success("✅ Workplace API: Ready")
         else:
             st.warning("⚠️ Workplace API: Offline")
 
@@ -85,9 +102,6 @@ def _render_sidebar(wp_health: dict):
         st.page_link("pages/6_about.py",                    label="ℹ️ About")
 
         st.markdown("---")
-        with st.expander("⚙️ API Configuration", expanded=False):
-            wp_url = st.text_input("Workplace API URL", value=get_workplace_api_url(), key="cfg_wp_url")
-            st.caption(f"Current endpoint: `{wp_url}`")
 
 
 def main():

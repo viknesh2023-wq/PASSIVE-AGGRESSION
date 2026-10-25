@@ -81,16 +81,29 @@ class RouteResult:
 
 
 def _get_gemini_api_key() -> Optional[str]:
-    """Retrieve Gemini API key from environment or Streamlit secrets."""
+    """Retrieve Gemini API key from session state, environment, or Streamlit secrets."""
+    # 1. Check Streamlit session state (user entered via UI password input)
+    try:
+        import streamlit as st
+        if hasattr(st, "session_state") and st.session_state.get("cfg_gemini_key"):
+            val = str(st.session_state["cfg_gemini_key"]).strip()
+            if val:
+                return val
+    except Exception:
+        pass
+
+    # 2. Check environment variable
     key = os.environ.get("GEMINI_API_KEY")
-    if key:
+    if key and key.strip():
         return key.strip()
 
-    # Attempt to retrieve from Streamlit secrets if running inside Streamlit
+    # 3. Check Streamlit secrets if running inside Streamlit
     try:
         import streamlit as st
         if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
-            return str(st.secrets["GEMINI_API_KEY"]).strip()
+            val = str(st.secrets["GEMINI_API_KEY"]).strip()
+            if val:
+                return val
     except Exception:
         pass
 
