@@ -92,8 +92,21 @@ def _get_gemini_api_key() -> Optional[str]:
     except Exception:
         pass
 
-    # 2. Check environment variable
+    # 2. Check environment variable (attempt dotenv load from project root if missing)
     key = os.environ.get("GEMINI_API_KEY")
+    if not key:
+        try:
+            from dotenv import load_dotenv
+            from pathlib import Path
+            root_env = Path(__file__).resolve().parent.parent / ".env"
+            if root_env.exists():
+                load_dotenv(root_env)
+            else:
+                load_dotenv()
+            key = os.environ.get("GEMINI_API_KEY")
+        except Exception:
+            pass
+
     if key and key.strip():
         return key.strip()
 
@@ -216,17 +229,28 @@ def route_statement(text: str, timeout_seconds: float = 5.0) -> RouteResult:
 
         prompt = f"Analyze the communication domain of this statement:\n\"{clean_text}\""
 
-        # Call Gemini with structured output constraint
-        response = client.models.generate_content(
-            model="gemini-2.0-flash",
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                system_instruction=system_instruction,
-                response_mime_type="application/json",
-                response_schema=RoutingDecision,
-                temperature=0.1,
-            ),
-        )
+        # Model candidates ordered by availability
+        model_candidates = ["gemini-3.5-flash-lite", "gemini-3.8-flash", "gemini-2.5-flash-lite", "gemini-2.0-flash"]
+        response = None
+        chosen_model = "gemini-3.5-flash-lite"
+
+        for m_name in model_candidates:
+            try:
+                response = client.models.generate_content(
+                    model=m_name,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        system_instruction=system_instruction,
+                        response_mime_type="application/json",
+                        response_schema=RoutingDecision,
+                        temperature=0.1,
+                    ),
+                )
+                if response and response.text:
+                    chosen_model = m_name
+                    break
+            except Exception:
+                continue
 
         latency_ms = (time.perf_counter() - t0) * 1000.0
 
@@ -243,7 +267,7 @@ def route_statement(text: str, timeout_seconds: float = 5.0) -> RouteResult:
             needs_clarification=decision.needs_clarification,
             detected_domain_cues=decision.detected_domain_cues,
             is_fallback=False,
-            router_model="gemini-2.0-flash",
+            router_model=chosen_model,
             latency_ms=latency_ms,
         )
 
@@ -253,3 +277,4 @@ def route_statement(text: str, timeout_seconds: float = 5.0) -> RouteResult:
             clean_text,
             f"Gemini API request failed ({type(e).__name__})."
         )
+
