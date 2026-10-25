@@ -1,0 +1,9 @@
+source_dataset,num_records,neutral_count,pa_count,overt_hostile_count,train_count,val_count,test_count
+curated_hostile,8,0,0,8,4,4,0
+curated_neutral,10,10,0,0,7,0,3
+curated_pa,28,0,28,0,20,4,4
+goemotions_anger_hostile,120,0,0,120,85,15,20
+hard_sarcasm_neg,8,8,0,0,5,1,2
+sarc_hard_negative_sarcasm,120,120,0,0,82,21,17
+sentiment_tweeteval_neutral,120,120,0,0,86,17,17
+synthetic,50,14,29,7,31,9,10

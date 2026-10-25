@@ -1,0 +1,48 @@
+{
+  "total_gold_spans": 25,
+  "total_predicted_spans": 24,
+  "offset_integrity_errors": 0,
+  "exact_match": {
+    "precision": 0.9167,
+    "recall": 0.88,
+    "f1_score": 0.898
+  },
+  "overlap_match": {
+    "precision": 1.0417,
+    "recall": 1.0,
+    "f1_score": 1.0204
+  },
+  "per_tactic_span_performance": {
+    "blame_shifting": {
+      "gold_support": 1,
+      "exact_recall": 1.0,
+      "overlap_recall": 1.0
+    },
+    "mock_politeness": {
+      "gold_support": 6,
+      "exact_recall": 1.0,
+      "overlap_recall": 1.0
+    },
+    "backhanded_compliment": {
+      "gold_support": 6,
+      "exact_recall": 0.8333,
+      "overlap_recall": 1.0
+    },
+    "curt_dismissal": {
+      "gold_support": 7,
+      "exact_recall": 0.7143,
+      "overlap_recall": 1.0
+    },
+    "guilt_tripping": {
+      "gold_support": 3,
+      "exact_recall": 1.0,
+      "overlap_recall": 1.0
+    },
+    "sarcasm": {
+      "gold_support": 2,
+      "exact_recall": 1.0,
+      "overlap_recall": 1.0
+    }
+  },
+  "offset_verification": "100% of detected character offsets exactly match underlying sliced text substrings."
+}

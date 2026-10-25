@@ -1,0 +1,70 @@
+{
+  "TFIDF_LinearSVM": {
+    "accuracy": 0.9565,
+    "macro_f1": 0.8611,
+    "per_class": {
+      "neutral": {
+        "precision": 0.9723538704581358,
+        "recall": 0.9785373608903021,
+        "f1-score": 0.9754358161648178,
+        "support": 1258.0
+      },
+      "passive_aggressive": {
+        "precision": 0.92,
+        "recall": 0.696969696969697,
+        "f1-score": 0.7931034482758621,
+        "support": 33.0
+      },
+      "overt_hostile": {
+        "precision": 0.8148148148148148,
+        "recall": 0.8148148148148148,
+        "f1-score": 0.8148148148148148,
+        "support": 135.0
+      },
+      "accuracy": 0.9565217391304348,
+      "macro avg": {
+        "precision": 0.9023895617576502,
+        "recall": 0.8301072908916046,
+        "f1-score": 0.8611180264184982,
+        "support": 1426.0
+      },
+      "weighted avg": {
+        "precision": 0.9562280287772333,
+        "recall": 0.9565217391304348,
+        "f1-score": 0.9560102878881096,
+        "support": 1426.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1231,
+        2,
+        25
+      ],
+      [
+        10,
+        23,
+        0
+      ],
+      [
+        25,
+        0,
+        110
+      ]
+    ],
+    "latency_ms": 0.034,
+    "selected_for_production": true
+  },
+  "TFIDF_LogisticRegression": {
+    "accuracy": 0.9516,
+    "macro_f1": 0.8531,
+    "latency_ms": 0.022,
+    "selected_for_production": false
+  },
+  "Linguistic_LogReg": {
+    "accuracy": 0.7868,
+    "macro_f1": 0.5692,
+    "latency_ms": 0.001,
+    "selected_for_production": false
+  }
+}

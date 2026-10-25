@@ -1,0 +1,51 @@
+sample_id,text,context,speaker_role,primary_label,tactics,context_required,annotator_id,annotation_notes,adjudicated_label,source_dataset,split_group
+PA_000001,"As per my last email, the deadline was Friday. I'm not sure what happened.",workplace,peer,passive_aggressive,blame_shifting,FALSE,A1,Explicit reference to prior communication implies the recipient failed to read it,passive_aggressive,synthetic,train
+PA_000002,"Thanks for finally getting that done. No worries, I'm sure you were busy.",workplace,manager,passive_aggressive,"guilt_tripping,backhanded_compliment",FALSE,A1,Finally implies lateness; I'm sure you were busy is a sarcastic excuse,passive_aggressive,synthetic,train
+PA_000003,"Fine. Do whatever you want.",chat,peer,passive_aggressive,curt_dismissal,TRUE,A1,Fine as a curt reply signals disengagement; context affects certainty,passive_aggressive,synthetic,train
+PA_000004,"I disagree with your approach — here's why.",workplace,peer,neutral,,FALSE,A1,Direct clear disagreement with reasoning — no hidden hostility,neutral,synthetic,train
+PA_000005,"You are completely useless.",workplace,manager,overt_hostile,,FALSE,A1,Direct personal attack — no indirection,overt_hostile,synthetic,train
+PA_000006,"With all due respect, I think you're missing the point.",workplace,peer,passive_aggressive,mock_politeness,TRUE,A1,With all due respect is a common mock-politeness marker; depends on tone and relationship,passive_aggressive,synthetic,train
+PA_000007,"Not to be rude, but that presentation was a disaster.",chat,peer,passive_aggressive,mock_politeness,FALSE,A1,Not to be rude but precedes an explicitly critical statement — indirect hostility,passive_aggressive,synthetic,train
+PA_000008,"That was hilarious 😂",chat,peer,neutral,,FALSE,A1,Genuine amusement — not sarcastic in isolation; no hostile target,neutral,synthetic,train
+PA_000009,"Could you send me the report by end of day?",workplace,peer,neutral,,FALSE,A1,Direct polite request — no hostility indicators,neutral,synthetic,train
+PA_000010,"Sorry you feel that way.",chat,peer,passive_aggressive,mock_politeness,FALSE,A1,Classic dismissive phrase — acknowledges feelings without taking any responsibility,passive_aggressive,synthetic,train
+PA_000011,"I just assumed you'd handle it since you always do.",workplace,peer,passive_aggressive,"guilt_tripping,backhanded_compliment",FALSE,A1,Since you always do is a backhanded compliment; combined with assumed implies guilt,passive_aggressive,synthetic,train
+PA_000012,"Stop wasting everyone's time with these ideas.",workplace,manager,overt_hostile,,FALSE,A1,Direct dismissal and attack on the person's contributions,overt_hostile,synthetic,train
+PA_000013,"No worries!",chat,peer,neutral,,TRUE,A1,Standalone no worries is ambiguous — could be genuine reassurance or passive-aggressive; context required,neutral,synthetic,train
+PA_000014,"I'm frustrated by the delays but I understand things come up.",workplace,peer,neutral,,FALSE,A1,Direct expression of emotion with acknowledgment — not passive aggressive,neutral,synthetic,train
+PA_000015,"Wow great job on the report... it only took three weeks.",workplace,manager,passive_aggressive,"sarcasm,backhanded_compliment",FALSE,A1,Ellipsis and only took three weeks are clear sarcastic signals targeting the recipient,passive_aggressive,synthetic,train
+PA_000016,"I can't believe how incompetent you are.",workplace,manager,overt_hostile,,FALSE,A1,Direct personal attack using incompetent label,overt_hostile,synthetic,train
+PA_000017,"Whatever you think is best.",workplace,peer,passive_aggressive,curt_dismissal,TRUE,A1,Feigned deference masking disengagement; highly context-dependent,passive_aggressive,synthetic,train
+PA_000018,"I already mentioned this in yesterday's meeting.",workplace,peer,passive_aggressive,blame_shifting,FALSE,A1,Implies the recipient did not pay attention — redirects blame,passive_aggressive,synthetic,train
+PA_000019,"Thank you for your feedback.",workplace,manager,neutral,,TRUE,A1,Could be genuine or dismissive; context needed — default neutral,neutral,synthetic,train
+PA_000020,"I don't think this will work because of X Y and Z.",workplace,peer,neutral,,FALSE,A1,Clear direct analytical disagreement with reasons,neutral,synthetic,train
+PA_000021,"I guess I'll just do it myself then.",chat,peer,passive_aggressive,guilt_tripping,FALSE,A1,Implies the recipient has failed to help; designed to induce guilt,passive_aggressive,synthetic,train
+PA_000022,"Bless your heart.",social,stranger,passive_aggressive,mock_politeness,TRUE,A1,Southern US phrase often used to condescend while appearing polite; context dependent,passive_aggressive,synthetic,train
+PA_000023,"I'm sure you were very busy with more important things.",workplace,peer,passive_aggressive,"guilt_tripping,sarcasm",FALSE,A1,Sarcastic implication that the recipient prioritized other tasks over this person,passive_aggressive,synthetic,train
+PA_000024,"Oh really. How interesting.",chat,peer,passive_aggressive,sarcasm,TRUE,A1,Flat delivery implied by context; sarcastic dismissal,passive_aggressive,synthetic,train
+PA_000025,"I've been waiting two weeks for this.",workplace,peer,passive_aggressive,guilt_tripping,FALSE,A1,Stating wait time without context is a guilt-tripping signal,passive_aggressive,synthetic,train
+PA_000026,"The project was delivered on time and meets all requirements.",workplace,peer,neutral,,FALSE,A1,Factual status update — no hostility,neutral,synthetic,train
+PA_000027,"Not that it matters, but I finished my part last week.",workplace,peer,passive_aggressive,"guilt_tripping,curt_dismissal",FALSE,A1,Not that it matters but raises something intended to matter; combined with finished early implies the recipient is behind,passive_aggressive,synthetic,train
+PA_000028,"Honestly I'm surprised you managed to finish.",workplace,manager,passive_aggressive,backhanded_compliment,FALSE,A1,Expressed surprise at a task completion implies low prior expectation,passive_aggressive,synthetic,train
+PA_000029,"At least you tried.",chat,peer,passive_aggressive,backhanded_compliment,FALSE,A1,Classic backhanded consolation that implies failure,passive_aggressive,synthetic,train
+PA_000030,"Better late than never!",workplace,peer,passive_aggressive,backhanded_compliment,FALSE,A1,Common phrase used to highlight lateness while appearing positive,passive_aggressive,synthetic,train
+PA_000031,"I'm not angry. I'm just disappointed.",chat,family,passive_aggressive,"guilt_tripping,mock_politeness",FALSE,A1,Classic guilt-trip formula; disappointment framed to impose emotional burden,passive_aggressive,synthetic,train
+PA_000032,"Sure, if you think that's the right approach.",workplace,peer,passive_aggressive,curt_dismissal,TRUE,A1,Feigned agreement while clearly skeptical; context dependent on tone,passive_aggressive,synthetic,val
+PA_000033,"Could we schedule a call to discuss this further?",workplace,peer,neutral,,FALSE,A1,Direct professional request,neutral,synthetic,val
+PA_000034,"Oh GREAT. Now we have to redo everything.",workplace,peer,overt_hostile,sarcasm,FALSE,A1,Caps on GREAT signals strong sarcasm; redo everything is an explicit complaint rather than indirect,overt_hostile,synthetic,val
+PA_000035,"I expected better from you.",workplace,manager,overt_hostile,,FALSE,A1,Direct statement of negative expectation targeting the person,overt_hostile,synthetic,val
+PA_000036,"Do whatever you want. I'm done.",chat,peer,passive_aggressive,"curt_dismissal,guilt_tripping",FALSE,A1,Combination of disengagement and implied consequence,passive_aggressive,synthetic,val
+PA_000037,"As I've mentioned multiple times already...",workplace,peer,passive_aggressive,blame_shifting,FALSE,A1,Multiple times already is a blame-shift emphasizing recipient inattention,passive_aggressive,synthetic,val
+PA_000038,"That's certainly one way to look at it.",chat,peer,passive_aggressive,sarcasm,TRUE,A1,Dismissive validation that implies the view is wrong without stating it,passive_aggressive,synthetic,val
+PA_000039,"Good for you.",chat,stranger,passive_aggressive,mock_politeness,TRUE,A1,Often used sarcastically to dismiss someone's achievement,passive_aggressive,synthetic,val
+PA_000040,"I'm glad we could clear that up.",workplace,manager,neutral,,TRUE,A1,Could be genuine closure or passive-aggressive; default neutral without context,neutral,synthetic,val
+PA_000041,"You never take anything seriously.",chat,family,overt_hostile,,FALSE,A1,Direct sweeping criticism using never,overt_hostile,synthetic,test
+PA_000042,"No worries, I'll handle it. Like I always do.",workplace,peer,passive_aggressive,"guilt_tripping,blame_shifting",FALSE,A1,Like I always do is a clear guilt-tripping addition implying habitual unfair burden,passive_aggressive,synthetic,test
+PA_000043,"I just want to make sure we're on the same page.",workplace,manager,neutral,,FALSE,A1,Direct clarification request — no hostility,neutral,synthetic,test
+PA_000044,"Well, that's just your opinion.",chat,peer,passive_aggressive,curt_dismissal,FALSE,A1,Dismissive deflection of a point without engaging with it,passive_aggressive,synthetic,test
+PA_000045,"I can't work with someone who doesn't listen.",workplace,peer,overt_hostile,,FALSE,A1,Direct statement of inability to work with the person,overt_hostile,synthetic,test
+PA_000046,"Thanks in advance!",workplace,peer,neutral,,TRUE,A1,Thanks in advance is very common and often genuinely polite; only PA if demanding tone — default neutral,neutral,synthetic,test
+PA_000047,"I'm sure you have your reasons.",chat,peer,passive_aggressive,sarcasm,TRUE,A1,Dismissive implied sarcasm — I'm sure signals doubt,passive_aggressive,synthetic,test
+PA_000048,"Your work on this has been outstanding.",workplace,manager,neutral,,FALSE,A1,Straightforward positive assessment — no backhanded elements,neutral,synthetic,test
+PA_000049,"Must be nice to have so much free time.",chat,peer,passive_aggressive,guilt_tripping,FALSE,A1,Implicit accusation that the recipient is not working while the speaker is overburdened,passive_aggressive,synthetic,test
+PA_000050,"The deadline is tomorrow. Please have it ready.",workplace,manager,neutral,,FALSE,A1,Direct reminder with no indirection or hostility,neutral,synthetic,test

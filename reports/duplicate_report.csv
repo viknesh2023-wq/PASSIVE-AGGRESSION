@@ -1,0 +1,1348 @@
+sample_id,text,source_dataset,primary_label
+GEN_PA_001339,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_001338,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_001366,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_001365,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_001364,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_001363,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_001362,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_001361,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_001323,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_001322,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_001344,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_001343,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_001342,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_001341,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_001340,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_001307,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_001306,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_001337,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_001336,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_001335,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_001332,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_001331,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_001330,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_001329,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_001328,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001327,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001326,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_001325,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_001324,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_001291,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_001290,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_001321,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_001320,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_001319,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_001316,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_001315,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_001314,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001313,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_001312,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_001311,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_001310,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_001309,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_001308,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_001275,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001274,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001305,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_001304,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_001303,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_001302,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_001301,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_001300,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_001299,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_001298,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_001297,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_001296,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_001295,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_001294,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001293,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_001292,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_001259,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_001258,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_001289,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_001288,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_001287,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_001286,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_001285,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_001284,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_001283,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_001282,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_001281,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_001280,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_001279,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_001278,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_001277,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_001276,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_001243,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_001242,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_001273,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_001272,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_001271,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_001270,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_001269,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_001268,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_001267,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_001266,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_001265,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_001264,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_001263,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_001262,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_001261,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001260,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_001227,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_001226,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_001257,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_001256,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_001255,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_001254,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_001253,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_001252,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_001251,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_001250,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_001249,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_001248,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_001247,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_001246,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_001245,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_001244,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_001211,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_001210,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_001241,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001240,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_001239,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_001238,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_001237,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_001236,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_001235,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_001234,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_001233,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_001232,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_001231,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_001230,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_001229,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_001228,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_001195,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_001194,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_001225,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_001224,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_001223,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_001222,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001221,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001220,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_001219,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_001218,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_001217,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_001216,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_001215,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_001214,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_001213,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_001212,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_001179,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_001178,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_001209,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_001208,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001207,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_001206,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_001205,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_001204,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_001203,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_001202,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_001201,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_001200,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_001199,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_001198,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_001197,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_001196,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_001163,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_001162,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_001193,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_001192,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_001191,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_001190,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_001189,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_001188,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001187,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_001186,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_001185,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_001184,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_001183,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_001182,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_001181,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_001180,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_001147,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_001146,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_001177,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_001176,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_001175,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_001174,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_001173,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_001172,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_001171,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_001170,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_001169,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001168,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001167,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_001166,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_001165,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_001164,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_001131,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_001130,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_001161,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_001160,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_001159,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_001158,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_001157,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_001156,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_001155,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001154,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_001153,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_001152,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_001151,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_001150,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_001149,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_001148,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_001115,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001114,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_001145,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_001144,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_001143,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_001142,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_001141,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_001140,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_001139,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_001138,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_001137,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_001136,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_001135,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001134,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_001133,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_001132,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_001099,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_001098,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_001129,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_001128,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_001127,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_001126,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_001125,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_001124,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_001123,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_001122,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_001121,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_001120,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_001119,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_001118,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_001117,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_001116,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001083,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_001082,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001113,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_001112,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_001111,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_001110,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_001109,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_001108,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_001107,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_001106,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_001105,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_001104,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_001103,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_001102,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001101,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_001100,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_001067,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_001066,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_001097,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_001096,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_001095,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_001094,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_001093,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_001092,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_001091,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_001090,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_001089,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_001088,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_001087,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_001086,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_001085,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_001084,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_001051,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_001050,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_001081,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_001080,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_001079,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_001078,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_001077,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_001076,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_001075,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_001074,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_001073,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_001072,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_001071,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_001070,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_001069,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_001068,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_001035,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_001034,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_001065,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_001064,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_001063,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001062,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001061,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_001060,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_001059,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_001058,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_001057,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_001056,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_001055,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_001054,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_001053,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_001052,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_001019,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_001018,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_001049,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001048,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_001047,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_001046,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_001045,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_001044,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_001043,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_001042,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_001041,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_001040,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_001039,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_001038,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_001037,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_001036,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_001003,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_001002,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_001033,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_001032,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_001031,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_001030,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_001029,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_001028,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_001027,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_001026,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_001025,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_001024,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_001023,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_001022,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_001021,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_001020,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000987,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000986,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_001017,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_001016,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_001015,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_001014,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_001013,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_001012,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_001011,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_001010,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001009,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_001008,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_001007,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_001006,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_001005,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_001004,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000971,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000970,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_001001,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_001000,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000999,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000998,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000997,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000996,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000995,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000994,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000993,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000992,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000991,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000990,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000989,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000988,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000955,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000954,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000985,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000984,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000983,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000982,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000981,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000980,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000979,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000978,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000977,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000976,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000975,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000974,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000973,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000972,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000939,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000938,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000969,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000968,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000967,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000966,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000965,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000964,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000963,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000962,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000961,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000960,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000959,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000958,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000957,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000956,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000923,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000922,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000953,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000952,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000951,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000950,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000949,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000948,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000947,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000946,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000945,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000944,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000943,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000942,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000941,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000940,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000907,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000906,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000937,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000936,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000935,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000934,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000933,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000932,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000931,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000930,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000929,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000928,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000927,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000926,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000925,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000924,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000891,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000890,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000921,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000920,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000919,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000918,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000917,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000916,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000915,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000914,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000913,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000912,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000911,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000910,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000909,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000908,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000875,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000874,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000905,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000904,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000903,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000902,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000901,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000900,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000899,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000898,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000897,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000896,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000895,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000894,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000893,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000892,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000889,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000888,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000887,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000886,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000885,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000884,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000883,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000882,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000881,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000880,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000879,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000878,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000877,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000876,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000035,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000034,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000033,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000032,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000031,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000030,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000029,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000028,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000027,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000026,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000057,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000056,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000055,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000054,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000053,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000052,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000051,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000050,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000049,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000048,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000047,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000046,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000045,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000044,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000043,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000042,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000073,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000072,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000071,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000070,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000069,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000068,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000067,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000066,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000065,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000064,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000063,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000062,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000061,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000060,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000059,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000058,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000089,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000088,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000087,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000086,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000085,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000084,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000083,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000082,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000081,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000080,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000079,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000078,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000077,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000076,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000075,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000074,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000105,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000104,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000103,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000102,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000101,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000100,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000099,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000098,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000097,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000096,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000095,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000094,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000093,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000092,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000091,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000090,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000121,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000120,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000119,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000118,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000117,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000116,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000115,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000114,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000113,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000112,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000111,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000110,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000109,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000108,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000107,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000106,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000137,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000136,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000135,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000134,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000133,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000132,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000131,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000130,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000129,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000128,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000127,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000126,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000125,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000124,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000123,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000122,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000153,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000152,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000151,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000150,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000149,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000148,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000872,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000871,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000870,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000869,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000868,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000867,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000866,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000865,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000864,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000863,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000862,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000861,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000860,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000859,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000858,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000873,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000147,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000146,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000145,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000144,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000143,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000142,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000141,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000140,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000139,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000138,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000169,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000168,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000167,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000166,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000165,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000164,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000163,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000162,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000161,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000160,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000159,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000158,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000157,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000156,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000155,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000154,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000185,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000184,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000183,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000182,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000181,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000180,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000179,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000178,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000177,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000176,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000175,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000174,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000173,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000172,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000171,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000170,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000201,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000200,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000199,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000198,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000197,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000196,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000195,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000194,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000193,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000192,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000191,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000190,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000189,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000188,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000187,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000186,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000217,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000216,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000215,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000214,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000213,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000212,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000211,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000210,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000209,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000208,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000207,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000206,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000205,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000204,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000203,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000202,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000233,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000232,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000231,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000230,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000229,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000228,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000227,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000226,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000225,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000224,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000223,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000222,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000221,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000220,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000219,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000218,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000249,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000248,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000247,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000246,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000245,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000244,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000243,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000242,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000241,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000240,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000239,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000238,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000237,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000236,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000235,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000234,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000265,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000264,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000263,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000262,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000261,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000260,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000259,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000258,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000257,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000256,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000255,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000254,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000253,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000252,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000251,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000250,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000281,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000280,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000279,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000278,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000277,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000276,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000275,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000274,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000273,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000272,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000271,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000270,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000269,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000268,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000267,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000266,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000297,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000296,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000295,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000294,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000293,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000292,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000291,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000290,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000289,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000288,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000287,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000286,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000285,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000284,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000283,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000282,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000313,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000312,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000311,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000310,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000309,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000308,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000307,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000306,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000305,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000304,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000303,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000302,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000301,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000300,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000299,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000298,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000329,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000328,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000327,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000326,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000325,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000324,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000323,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000322,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000321,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000320,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000319,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000318,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000317,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000316,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000315,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000314,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000345,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000344,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000343,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000342,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000341,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000340,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000339,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000338,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000337,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000336,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000335,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000334,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000333,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000332,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000331,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000330,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000361,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000360,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000359,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000358,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000357,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000356,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000355,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000354,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000353,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000352,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000351,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000350,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000349,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000348,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000347,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000346,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000377,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000376,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000375,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000374,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000373,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000372,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000371,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000370,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000369,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000368,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000367,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000366,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000365,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000364,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000363,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000362,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000393,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000392,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000391,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000390,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000389,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000388,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000387,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000386,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000385,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000384,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000383,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000382,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000381,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000380,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000379,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000378,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000409,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000408,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000407,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000406,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000405,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000404,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000403,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000402,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000401,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000400,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000399,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000398,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000397,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000396,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000395,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000394,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000425,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000424,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000423,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000422,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000421,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000420,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000419,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000418,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000417,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000416,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000415,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000414,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000413,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000412,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000411,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000410,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000441,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000440,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000439,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000438,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000437,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000436,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000435,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000434,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000433,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000432,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000431,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000430,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000429,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000428,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000427,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000426,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000457,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000456,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000455,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000454,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000453,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000452,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000451,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000450,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000449,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000448,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000447,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000446,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000445,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000444,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000443,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000442,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000473,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000472,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000471,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000470,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000469,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000468,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000467,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000466,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000465,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000464,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000463,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000462,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000461,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000460,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000459,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000458,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000489,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000488,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000487,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000486,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000485,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000484,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000483,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000482,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000481,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000480,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000479,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000478,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000477,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000476,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000475,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000474,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000505,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000504,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000503,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000502,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000501,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000500,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000499,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000498,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000497,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000496,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000495,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000494,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000493,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000492,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000491,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000490,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000521,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000520,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000519,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000518,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000517,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000516,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000515,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000514,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000513,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000512,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000511,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000510,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000509,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000508,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000507,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000506,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000537,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000536,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000535,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000534,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000533,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000532,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000531,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000530,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000529,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000528,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000527,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000526,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000525,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000524,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000523,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000522,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000553,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000552,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000551,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000550,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000549,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000548,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000547,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000546,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000545,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000544,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000543,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000542,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000541,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000540,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000539,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000538,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000569,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000568,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000567,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000566,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000565,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000564,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000563,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000562,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000561,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000560,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000559,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000558,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000557,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000556,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000555,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000554,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000585,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000584,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000583,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000582,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000581,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000580,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000853,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000852,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000851,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000850,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000849,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000848,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000847,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000846,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000845,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000844,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000843,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000842,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000857,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000856,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000855,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000854,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000579,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000578,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000577,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000576,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000575,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000574,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000573,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000572,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000571,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000570,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000601,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000600,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000599,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000598,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000597,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000596,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000595,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000594,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000593,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000592,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000591,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000590,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000589,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000588,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000587,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000586,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000617,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000616,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000615,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000614,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000613,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000612,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000611,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000610,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000609,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000608,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000607,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000606,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000605,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000604,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000603,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000602,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000633,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000632,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000631,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000630,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000629,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000628,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000627,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000626,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000625,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000624,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000623,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000622,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000621,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000620,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000619,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000618,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000649,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000648,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000647,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000646,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000645,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000644,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000643,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000642,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000641,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000640,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000639,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000638,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000637,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000636,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000635,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000634,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000665,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000664,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000663,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000662,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000661,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000660,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000659,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000658,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000657,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000656,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000655,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000654,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000653,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000652,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000651,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000650,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000681,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000680,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000679,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000678,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000677,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000676,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000675,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000674,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000673,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000672,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000671,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000670,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000669,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000668,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000667,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000666,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000697,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000696,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000695,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000694,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000693,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000692,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000691,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000690,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000689,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000688,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000687,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000686,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000685,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000684,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000683,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000682,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000713,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000712,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000711,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000710,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000709,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000708,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000707,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000706,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000705,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000704,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000703,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000702,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000701,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000700,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000699,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000698,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000729,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000728,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000727,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000726,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000725,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000724,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000723,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000722,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000721,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000720,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000719,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000718,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000717,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000716,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000715,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000714,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000745,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000744,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000743,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000742,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000741,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000740,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000739,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000738,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000737,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000736,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000735,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000734,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000733,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000732,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000731,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000730,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000761,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000760,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000759,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000758,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000757,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000756,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000755,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000754,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000753,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000752,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000751,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000750,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000749,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000748,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000747,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000746,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000777,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000776,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000775,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000774,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000773,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000772,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000771,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000770,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000769,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000768,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000767,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000766,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000765,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000764,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000763,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000762,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000793,I'm so thrilled to spend my Sunday fixing bugs that were marked as verified.,curated_pa_expansion,passive_aggressive
+GEN_PA_000792,"What a shock, the scope doubled two days before the deadline.",curated_pa_expansion,passive_aggressive
+GEN_PA_000791,"Sure, because ignoring unit tests is universally recognized as best practice.",curated_pa_expansion,passive_aggressive
+GEN_PA_000790,"Oh brilliant, another two-hour status meeting that could have been a Slack message.",curated_pa_expansion,passive_aggressive
+GEN_PA_000789,Right. Because that worked so well the last three times you tried it.,curated_pa_expansion,passive_aggressive
+GEN_PA_000788,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000787,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000786,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000785,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000784,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000783,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000782,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000781,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000780,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000779,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000778,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000809,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_000808,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_000807,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_000806,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_000805,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_000804,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000803,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000802,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000801,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000800,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000799,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000798,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000797,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000796,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000795,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000794,Because clearly writing clean code is totally optional on this project.,curated_pa_expansion,passive_aggressive
+GEN_PA_000825,"Don't worry about helping with the deployment, I'll just stay up all night by myself like always.",curated_pa_expansion,passive_aggressive
+GEN_PA_000824,You speak remarkably articulately for someone who just joined the industry.,curated_pa_expansion,passive_aggressive
+GEN_PA_000823,I admire your confidence even when your assumptions turn out to be completely inaccurate.,curated_pa_expansion,passive_aggressive
+GEN_PA_000822,It must be nice to have so much free time during work hours.,curated_pa_expansion,passive_aggressive
+GEN_PA_000821,"You look so refreshed, almost like you haven't been doing any of the hard work this sprint.",curated_pa_expansion,passive_aggressive
+GEN_PA_000820,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000819,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000818,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000817,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000816,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000815,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_000814,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_000813,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_000812,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_000811,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_000810,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_000841,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_000840,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_000839,If you say so. I am sure you have everything completely under control.,curated_pa_expansion,passive_aggressive
+GEN_PA_000838,Noted. I won't bother bringing up security vulnerabilities again.,curated_pa_expansion,passive_aggressive
+GEN_PA_000837,K. We will see how that works out with executive leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000836,"Whatever. You're the boss, apparently you know best.",curated_pa_expansion,passive_aggressive
+GEN_PA_000835,"Fine. Do whatever you want, you always do anyway.",curated_pa_expansion,passive_aggressive
+GEN_PA_000834,Don't let my emergency interrupt your uninterrupted afternoon break.,curated_pa_expansion,passive_aggressive
+GEN_PA_000833,I'm sorry for expecting you to honor the commitments you made in front of everyone.,curated_pa_expansion,passive_aggressive
+GEN_PA_000832,I see where your priorities lie regarding our project commitments.,curated_pa_expansion,passive_aggressive
+GEN_PA_000831,Clearly my input on the architecture was worthless to this group.,curated_pa_expansion,passive_aggressive
+GEN_PA_000830,"I'll just handle the escalation alone, since everyone else seems too busy to assist.",curated_pa_expansion,passive_aggressive
+GEN_PA_000829,"No worries, I'm used to doing the work of three engineers without any recognition.",curated_pa_expansion,passive_aggressive
+GEN_PA_000828,I guess my time isn't as valuable as your team's priorities.,curated_pa_expansion,passive_aggressive
+GEN_PA_000827,Must be nice to the rest of the team works through lunch while the rest of the team works through lunch.,curated_pa_expansion,passive_aggressive
+GEN_PA_000826,"Go ahead and log off, I'll just finish all your work on my personal weekend.",curated_pa_expansion,passive_aggressive
+GEN_PA_000009,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_000008,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive
+GEN_PA_000007,Please feel free to finally respond to our client inquiries whenever you find it convenient.,curated_pa_expansion,passive_aggressive
+GEN_PA_000006,I hope you enjoy your time off while the rest of us cover all your unfinished tickets.,curated_pa_expansion,passive_aggressive
+GEN_PA_000005,Warm regards to whoever thought deploying on a Friday evening was wise.,curated_pa_expansion,passive_aggressive
+GEN_PA_000004,Kindly refer to the documentation that was sent to you twice already.,curated_pa_expansion,passive_aggressive
+GEN_PA_000003,Thanks in advance for remembering to submit your deliverable on time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000002,Thanks in advance for actually reading the brief this time.,curated_pa_expansion,passive_aggressive
+GEN_PA_000001,"With all due respect, we already explained this in the kickoff meeting.",curated_pa_expansion,passive_aggressive
+GEN_PA_000000,"With all due respect, perhaps you should check the guidelines before editing.",curated_pa_expansion,passive_aggressive
+GEN_PA_000025,Congratulations on finally shipping a feature without needing someone to hold your hand.,curated_pa_expansion,passive_aggressive
+GEN_PA_000024,You're actually competent at writing documentation when you actually put in the effort.,curated_pa_expansion,passive_aggressive
+GEN_PA_000023,It's amazing how relaxed you are about missing critical quarterly milestones.,curated_pa_expansion,passive_aggressive
+GEN_PA_000022,I love how bold you are to present completely unvetted numbers to senior leadership.,curated_pa_expansion,passive_aggressive
+GEN_PA_000021,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_000020,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_001371,Fine by me. Just don't come asking for help when it breaks in production.,curated_pa_expansion,passive_aggressive
+GEN_PA_001370,"Sure, whatever you decide. My opinion clearly doesn't matter here.",curated_pa_expansion,passive_aggressive
+GEN_PA_001399,Your presentation was remarkably good given how little preparation you did.,curated_pa_expansion,passive_aggressive
+GEN_PA_001398,You did surprisingly well on the design review considering your lack of background.,curated_pa_expansion,passive_aggressive
+GEN_PA_001397,I guess instructions were unclear for certain team members.,curated_pa_expansion,passive_aggressive
+GEN_PA_001396,Perhaps next time you might want to review the pull request before approving it blindly.,curated_pa_expansion,passive_aggressive
+GEN_PA_001395,I apologize if expecting timely status updates was an unrealistic burden.,curated_pa_expansion,passive_aggressive
+GEN_PA_001394,I was only following the guidelines that you insisted on putting in place.,curated_pa_expansion,passive_aggressive
+GEN_PA_001393,Per our phone call which you apparently chose to completely disregard.,curated_pa_expansion,passive_aggressive
+GEN_PA_001392,Just following up yet again because my previous three emails received zero response.,curated_pa_expansion,passive_aggressive
+GEN_PA_001391,"I'm not sure what happened, but the report you submitted has completely missing data.",curated_pa_expansion,passive_aggressive
+GEN_PA_001390,I assumed you knew that this API endpoint was deprecated three weeks ago.,curated_pa_expansion,passive_aggressive
+GEN_PA_001389,"As per our discussion yesterday, you were supposed to lead this client presentation.",curated_pa_expansion,passive_aggressive
+GEN_PA_001388,"Per my last email, the deadline was clearly stated as Friday 5 PM.",curated_pa_expansion,passive_aggressive
+GEN_PA_001387,Have a great evening while the on-call team resolves your breaking changes.,curated_pa_expansion,passive_aggressive
+GEN_PA_001386,I would appreciate it if you did not commit untested code directly to main.,curated_pa_expansion,passive_aggressive

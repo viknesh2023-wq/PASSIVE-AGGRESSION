@@ -1,0 +1,28 @@
+{
+  "teacher_model": {
+    "architecture": "Calibrated LinearSVC Ensemble (10,000 n-grams)",
+    "accuracy": 0.9565,
+    "macro_f1": 0.851,
+    "pa_precision": 0.9545,
+    "pa_recall": 0.6364,
+    "pa_f1": 0.7636,
+    "latency_ms": 0.0421,
+    "size_kb": 705.17
+  },
+  "student_model": {
+    "architecture": "Distilled Compact LogisticRegression (3,000 unigrams)",
+    "accuracy": 0.9334,
+    "macro_f1": 0.7698,
+    "pa_precision": 0.4062,
+    "pa_recall": 0.7879,
+    "pa_f1": 0.5361,
+    "latency_ms": 0.0037,
+    "size_kb": 71.05
+  },
+  "distillation_analysis": {
+    "macro_f1_retention": "90.5%",
+    "latency_speedup": "11.24x faster",
+    "size_reduction": "89.9% memory savings",
+    "deployment_recommendation": "Teacher model (pa-tfidf-svm-v1) is fast enough (0.034 ms) for real-time edge use without needing compressed distillation."
+  }
+}

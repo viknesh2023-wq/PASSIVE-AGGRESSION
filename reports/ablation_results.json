@@ -1,0 +1,47 @@
+{
+  "A_Phrase_Rules_Only": {
+    "macro_f1": 0.521,
+    "accuracy": 0.8845,
+    "description": "Lookup purely against 65 curated passive-aggressive, hostile, and politeness patterns"
+  },
+  "B_TFIDF_Unigrams_Only": {
+    "macro_f1": 0.768,
+    "accuracy": 0.932,
+    "description": "TF-IDF with unigrams only (1, 1), no bigrams, standard TF"
+  },
+  "C_Sentiment_Features_Only": {
+    "macro_f1": 0.495,
+    "accuracy": 0.821,
+    "description": "VADER positive, negative, neutral, and compound scores alone"
+  },
+  "D_Linguistic_Features_Only": {
+    "macro_f1": 0.5692,
+    "accuracy": 0.7868,
+    "description": "28 engineered linguistic features (punctuation, pronouns, capitals, discourse markers)"
+  },
+  "E_Combined_Classical_Model": {
+    "macro_f1": 0.8611,
+    "accuracy": 0.9565,
+    "description": "TF-IDF (1, 2) with sublinear TF and Calibrated Linear SVM (Selected Production Model)"
+  },
+  "F_Transformer_Only": {
+    "macro_f1": 0.6198,
+    "accuracy": 0.6987,
+    "description": "XLM-RoBERTa base fine-tuned on GPU (278M parameters, 16.2 ms latency)"
+  },
+  "G_Context_Aware_Model": {
+    "macro_f1": 0.8705,
+    "accuracy": 0.959,
+    "description": "TF-IDF + Context Concatenation (`[Context] PrevTurn [Turn] CurrentTurn`)"
+  },
+  "H_Hierarchical_Model": {
+    "macro_f1": 0.842,
+    "accuracy": 0.948,
+    "description": "Stage 1: Neutral vs Non-Neutral; Stage 2: Passive Aggressive vs Overt Hostile"
+  },
+  "I_Ensemble_Stacking": {
+    "macro_f1": 0.8611,
+    "accuracy": 0.9565,
+    "description": "Soft-voting ensemble of calibrated Linear SVM + phrase prior weights"
+  }
+}

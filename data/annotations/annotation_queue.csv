@@ -1,0 +1,11 @@
+queue_id,text,context,speaker_role,provisional_label,candidate_tactics,requires_context,status
+QUEUE_0001,"Thanks for the update, will check later.",chat,peer,unlabelled,,FALSE,pending_human_review
+QUEUE_0002,"As discussed, here is the file.",workplace,colleague,unlabelled,,FALSE,pending_human_review
+QUEUE_0003,"Sure, whatever works best for you.",workplace,peer,unlabelled,,TRUE,pending_human_review
+QUEUE_0004,I didn't realize you were waiting on me.,chat,manager,unlabelled,,FALSE,pending_human_review
+QUEUE_0005,Not sure if you saw my earlier note.,workplace,colleague,unlabelled,,TRUE,pending_human_review
+QUEUE_0006,"Great job on this section, let's fix the typos.",workplace,manager,unlabelled,,FALSE,pending_human_review
+QUEUE_0007,I'm confused why this changed without notice.,workplace,peer,unlabelled,,FALSE,pending_human_review
+QUEUE_0008,"No worries at all, happy to help!",social,friend,unlabelled,,FALSE,pending_human_review
+QUEUE_0009,Can we please stick to the agreed agenda?,workplace,chair,unlabelled,,FALSE,pending_human_review
+QUEUE_0010,Let me know if you need me to explain it again.,workplace,peer,unlabelled,,FALSE,pending_human_review

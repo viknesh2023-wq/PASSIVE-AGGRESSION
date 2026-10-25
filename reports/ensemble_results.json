@@ -1,0 +1,57 @@
+{
+  "ensemble_name": "Calibrated_LinearSVM_Plus_LinguisticPriors_SoftVote",
+  "accuracy": 0.9579,
+  "macro_f1": 0.8748,
+  "confusion_matrix": [
+    [
+      1231,
+      2,
+      25
+    ],
+    [
+      8,
+      25,
+      0
+    ],
+    [
+      25,
+      0,
+      110
+    ]
+  ],
+  "per_class": {
+    "neutral": {
+      "precision": 0.9738924050632911,
+      "recall": 0.9785373608903021,
+      "f1-score": 0.9762093576526566,
+      "support": 1258.0
+    },
+    "passive_aggressive": {
+      "precision": 0.9259259259259259,
+      "recall": 0.7575757575757576,
+      "f1-score": 0.8333333333333334,
+      "support": 33.0
+    },
+    "overt_hostile": {
+      "precision": 0.8148148148148148,
+      "recall": 0.8148148148148148,
+      "f1-score": 0.8148148148148148,
+      "support": 135.0
+    },
+    "accuracy": 0.9579242636746143,
+    "macro avg": {
+      "precision": 0.9048777152680106,
+      "recall": 0.8503093110936248,
+      "f1-score": 0.8747858352669349,
+      "support": 1426.0
+    },
+    "weighted avg": {
+      "precision": 0.9577224411817502,
+      "recall": 0.9579242636746143,
+      "f1-score": 0.9576236829782904,
+      "support": 1426.0
+    }
+  },
+  "delta_vs_single_best": 0.0137,
+  "decision": "Ensemble matches single best linear SVM (0.8611 vs 0.8611); production deployment retains standalone Linear SVM for lowest latency and zero-dependency footprint."
+}

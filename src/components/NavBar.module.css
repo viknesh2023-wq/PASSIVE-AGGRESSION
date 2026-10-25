@@ -1,0 +1,136 @@
+/* ── Pure Black Top Navigation ────────────────────────────────────────────── */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: #050505;
+  border-bottom: 1px solid #262626;
+  height: 68px;
+  width: 100%;
+}
+
+.inner {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 28px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.monogram {
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  background-color: #121212;
+  border: 1px solid #333333;
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+.brandName {
+  font-size: 15px;
+  font-weight: 700;
+  color: #FFFFFF;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex: 1;
+  justify-content: center;
+}
+
+.link {
+  padding: 7px 13px;
+  border-radius: 7px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #B3B3B3;
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: all 140ms ease;
+  white-space: nowrap;
+}
+
+.link:hover {
+  color: #FFFFFF;
+  background-color: #121212;
+  border-color: #262626;
+}
+
+.active {
+  color: #FFFFFF !important;
+  background-color: #171717 !important;
+  border-color: #333333 !important;
+  font-weight: 600;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+/* Mobile nav */
+.mobileNav {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .nav {
+    display: none;
+  }
+
+  .mobileNav {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #050505;
+    border-top: 1px solid #262626;
+    z-index: 100;
+    padding: 8px 12px env(safe-area-inset-bottom, 8px);
+    justify-content: space-around;
+  }
+
+  .mobileLink {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    padding: 6px 8px;
+    text-decoration: none;
+    color: #858585;
+    font-size: 10px;
+    font-weight: 500;
+    border-radius: 6px;
+    transition: all 140ms ease;
+  }
+
+  .mobileLinkActive {
+    color: #FFFFFF !important;
+    background-color: #141414;
+  }
+}

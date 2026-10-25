@@ -1,0 +1,26 @@
+{
+  "total_records": 1668,
+  "unique_ids": 1668,
+  "label_dist": {
+    "passive_aggressive": 852,
+    "non_passive_aggressive": 783,
+    "ambiguous": 33
+  },
+  "threat_dist": {
+    "no_threat": 1476,
+    "implied_threat": 65,
+    "ambiguous": 74,
+    "direct_threat": 53
+  },
+  "tactic_dist": {
+    "sarcastic_agreement": 137,
+    "backhanded_compliment": 142,
+    "dismissiveness": 134,
+    "fake_politeness": 149,
+    "indirect_criticism": 143,
+    "implied_blame": 147
+  },
+  "issues": [],
+  "thread_records": 1048,
+  "standalone": 620
+}

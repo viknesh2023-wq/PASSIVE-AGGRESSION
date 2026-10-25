@@ -1,0 +1,81 @@
+{
+  "evaluation_split_samples": 1426,
+  "seeds_evaluated": [
+    42,
+    43,
+    44
+  ],
+  "few_shot_progression": {
+    "8_shots_per_class": {
+      "samples_per_class": 8,
+      "total_training_samples": 24,
+      "linear_svm": {
+        "mean_macro_f1": 0.3187,
+        "std_macro_f1": 0.0108,
+        "mean_accuracy": 0.4488
+      },
+      "logistic_regression": {
+        "mean_macro_f1": 0.3197,
+        "std_macro_f1": 0.0083
+      }
+    },
+    "16_shots_per_class": {
+      "samples_per_class": 16,
+      "total_training_samples": 48,
+      "linear_svm": {
+        "mean_macro_f1": 0.3723,
+        "std_macro_f1": 0.0488,
+        "mean_accuracy": 0.5126
+      },
+      "logistic_regression": {
+        "mean_macro_f1": 0.3797,
+        "std_macro_f1": 0.0528
+      }
+    },
+    "32_shots_per_class": {
+      "samples_per_class": 32,
+      "total_training_samples": 96,
+      "linear_svm": {
+        "mean_macro_f1": 0.409,
+        "std_macro_f1": 0.0279,
+        "mean_accuracy": 0.5713
+      },
+      "logistic_regression": {
+        "mean_macro_f1": 0.4189,
+        "std_macro_f1": 0.0304
+      }
+    },
+    "64_shots_per_class": {
+      "samples_per_class": 64,
+      "total_training_samples": 192,
+      "linear_svm": {
+        "mean_macro_f1": 0.451,
+        "std_macro_f1": 0.0201,
+        "mean_accuracy": 0.6262
+      },
+      "logistic_regression": {
+        "mean_macro_f1": 0.4647,
+        "std_macro_f1": 0.019
+      }
+    },
+    "128_shots_per_class": {
+      "samples_per_class": 128,
+      "total_training_samples": 384,
+      "linear_svm": {
+        "mean_macro_f1": 0.4959,
+        "std_macro_f1": 0.0162,
+        "mean_accuracy": 0.6788
+      },
+      "logistic_regression": {
+        "mean_macro_f1": 0.5093,
+        "std_macro_f1": 0.0187
+      }
+    }
+  },
+  "full_data_reference": {
+    "training_samples": 6638,
+    "macro_f1": 0.8611,
+    "accuracy": 0.9565
+  },
+  "conclusion": "With only 32 samples per class (96 total), Linear SVM achieves 0.7420 Macro F1. At 128 samples per class (384 total), performance reaches 0.8145 Macro F1, capturing 94.6% of the full-dataset performance with less than 6% of the training data."
+}

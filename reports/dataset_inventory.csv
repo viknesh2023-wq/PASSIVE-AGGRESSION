@@ -1,0 +1,11 @@
+dataset_id,dataset_name,official_source,license,original_row_count,ingested_row_count,text_column,label_column,language,label_origin,intended_task,reuse_decision
+tweeteval_sentiment,TweetEval 3-Class Sentiment,Barbieri et al. / Hugging Face,Research / Open Access,59700,3500,text,label,English,verified_mapped,Sincere conversational neutral baseline,Retained 3500 clean English neutral samples
+sarc_reddit_regular,SARC Reddit Corpus (Regular),Khodak et al. / Princeton,Research / Open Access,500000,2000,text,label,English,verified_mapped,Everyday non-sarcastic forum dialogue,Retained 2000 clean English neutral samples
+sarc_reddit_sarcasm,SARC Reddit Corpus (Irony/Sarcasm),Khodak et al. / Princeton,Research / Open Access,500000,2000,text,label,English,verified_mapped,Hard-negative non-hostile irony/sarcasm,Retained 2000 non-hostile sarcasm hard-negatives
+sarc_mined_pa,SARC Authentic PA Mined,SARC Subsets,Research / Open Access,143,143,text,primary_label,English,silver,Authentic indirect interpersonal hostility,Retained 143 passive-aggressive examples
+genz_synthetic_sarcasm,GenZ-Sarc Digital Banter,GenZ Digital Corpus,Academic Project,800,800,text,label,English,synthetic,Modern slang and non-hostile banter,Retained 800 non-hostile digital banter samples
+goemotions_hostile,GoEmotions (Anger & Hostility),Google Research,Apache-2.0,58009,883,text,emotions,English,verified_mapped,Direct overt hostility and personal attacks,Retained 883 overt hostile examples
+goemotions_auxiliary,GoEmotions (Fine-Grained Emotion),Google Research,Apache-2.0,58009,1000,text,emotions,English,unlabelled,Auxiliary multi-label emotion representations,Retained 1000 auxiliary emotion vectors
+gold_annotation_template,Gold Passive Aggression Anchors,Curated Ground Truth,Project Specific,52,52,text,primary_label,English,gold,Adjudicated 3-class ground truth anchors,Retained 52 gold verified anchor records
+curated_pa_expansion,Curated Tactic Syntactic Expansion,Authored Tactic Templates,CC-BY-4.0,82,82,text,primary_label,English,synthetic,Controlled multi-label tactic coverage,Retained 82 tactic expansion records
+contrastive_hard_negatives,Contrastive Hard Negatives,Minimal Pair Generator,CC-BY-4.0,60,60,text,primary_label,English,synthetic,Benign phrases with trigger words,Retained 60 contrastive hard negatives

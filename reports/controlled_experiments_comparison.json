@@ -1,0 +1,245 @@
+{
+  "evaluation_timestamp": "2026-10-25T18:09:07Z",
+  "test_dataset": "D:\\PassiveAggression Detector\\data\\processed\\pa_test.csv",
+  "total_test_samples": 1382,
+  "agreement_count": 559,
+  "disagreement_rate": 0.5955,
+  "fusion_strategy_distribution": {
+    "ml_statistical_generalization": 450,
+    "concordant_consensus": 552,
+    "conflict_uncertainty_arbitration": 373,
+    "benign_override_shield": 7
+  },
+  "variants": [
+    {
+      "model_name": "Legacy LinearSVM (3-class legacy)",
+      "accuracy": 0.2525,
+      "macro_f1": 0.1344,
+      "weighted_f1": 0.1018,
+      "latency_per_sample_ms": 0.066,
+      "per_class": {
+        "passive_aggressive": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 523
+        },
+        "non_passive_aggressive": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 510
+        },
+        "ambiguous": {
+          "precision": 0.2525,
+          "recall": 1.0,
+          "f1": 0.4032,
+          "support": 349
+        }
+      },
+      "confusion_matrix": {
+        "classes": [
+          "passive_aggressive",
+          "non_passive_aggressive",
+          "ambiguous"
+        ],
+        "matrix": [
+          [
+            0,
+            0,
+            523
+          ],
+          [
+            0,
+            0,
+            510
+          ],
+          [
+            0,
+            0,
+            349
+          ]
+        ]
+      }
+    },
+    {
+      "model_name": "Model 2: Rule-Based Engine (10 Families)",
+      "accuracy": 0.4096,
+      "macro_f1": 0.2662,
+      "weighted_f1": 0.2927,
+      "latency_per_sample_ms": 0.195,
+      "per_class": {
+        "passive_aggressive": {
+          "precision": 1.0,
+          "recall": 0.1071,
+          "f1": 0.1934,
+          "support": 523
+        },
+        "non_passive_aggressive": {
+          "precision": 0.403,
+          "recall": 0.9863,
+          "f1": 0.5722,
+          "support": 510
+        },
+        "ambiguous": {
+          "precision": 0.0897,
+          "recall": 0.0201,
+          "f1": 0.0328,
+          "support": 349
+        }
+      },
+      "confusion_matrix": {
+        "classes": [
+          "passive_aggressive",
+          "non_passive_aggressive",
+          "ambiguous"
+        ],
+        "matrix": [
+          [
+            56,
+            403,
+            64
+          ],
+          [
+            0,
+            503,
+            7
+          ],
+          [
+            0,
+            342,
+            7
+          ]
+        ]
+      }
+    },
+    {
+      "model_name": "Model 1: Supervised ML (TF-IDF + LogReg)",
+      "accuracy": 0.987,
+      "macro_f1": 0.9872,
+      "weighted_f1": 0.987,
+      "latency_per_sample_ms": 5.469,
+      "per_class": {
+        "passive_aggressive": {
+          "precision": 0.9828,
+          "recall": 0.9828,
+          "f1": 0.9828,
+          "support": 523
+        },
+        "non_passive_aggressive": {
+          "precision": 0.996,
+          "recall": 0.9843,
+          "f1": 0.9901,
+          "support": 510
+        },
+        "ambiguous": {
+          "precision": 0.9803,
+          "recall": 0.9971,
+          "f1": 0.9886,
+          "support": 349
+        }
+      },
+      "confusion_matrix": {
+        "classes": [
+          "passive_aggressive",
+          "non_passive_aggressive",
+          "ambiguous"
+        ],
+        "matrix": [
+          [
+            514,
+            2,
+            7
+          ],
+          [
+            8,
+            502,
+            0
+          ],
+          [
+            1,
+            0,
+            348
+          ]
+        ]
+      }
+    },
+    {
+      "model_name": "Model 3: Hybrid Decision Engine (ML + Rules)",
+      "accuracy": 0.9768,
+      "macro_f1": 0.975,
+      "weighted_f1": 0.9771,
+      "latency_per_sample_ms": 12.12,
+      "per_class": {
+        "passive_aggressive": {
+          "precision": 1.0,
+          "recall": 0.9675,
+          "f1": 0.9835,
+          "support": 523
+        },
+        "non_passive_aggressive": {
+          "precision": 0.998,
+          "recall": 0.9706,
+          "f1": 0.9841,
+          "support": 510
+        },
+        "ambiguous": {
+          "precision": 0.9184,
+          "recall": 1.0,
+          "f1": 0.9575,
+          "support": 349
+        }
+      },
+      "confusion_matrix": {
+        "classes": [
+          "passive_aggressive",
+          "non_passive_aggressive",
+          "ambiguous"
+        ],
+        "matrix": [
+          [
+            506,
+            1,
+            16
+          ],
+          [
+            0,
+            495,
+            15
+          ],
+          [
+            0,
+            0,
+            349
+          ]
+        ]
+      }
+    }
+  ],
+  "provenance_breakdown": {
+    "synthetic": {
+      "samples": 1342,
+      "ml_accuracy": 0.9896,
+      "rule_accuracy": 0.4016,
+      "hybrid_accuracy": 0.9821
+    },
+    "gold_anchor": {
+      "samples": 9,
+      "ml_accuracy": 0.6667,
+      "rule_accuracy": 0.3333,
+      "hybrid_accuracy": 0.3333
+    },
+    "authentic_mined": {
+      "samples": 19,
+      "ml_accuracy": 0.9474,
+      "rule_accuracy": 0.6316,
+      "hybrid_accuracy": 0.8947
+    },
+    "contrastive_hard_negative": {
+      "samples": 12,
+      "ml_accuracy": 1.0,
+      "rule_accuracy": 1.0,
+      "hybrid_accuracy": 1.0
+    }
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "test_samples": 1358,
+    "data_source": "data\\synthetic\\pa_synthetic_merged.csv",
+    "split_strategy": "conversation-grouped (15% held-out test)"
+  },
+  "pa_classification": {
+    "labels": [
+      "passive_aggressive",
+      "non_passive_aggressive",
+      "ambiguous"
+    ],
+    "ml_model": {
+      "name": "Logistic Regression (TF-IDF word 1-3, char 3-5)",
+      "accuracy": 0.9919,
+      "macro_f1": 0.9921,
+      "avg_latency_ms": 0.172,
+      "per_class": {
+        "passive_aggressive": {
+          "precision": 0.9886148007590133,
+          "recall": 0.9904942965779467,
+          "f1-score": 0.9895536562203229,
+          "support": 526.0
+        },
+        "non_passive_aggressive": {
+          "precision": 0.995850622406639,
+          "recall": 0.9917355371900827,
+          "f1-score": 0.9937888198757764,
+          "support": 484.0
+        },
+        "ambiguous": {
+          "precision": 0.9914040114613181,
+          "recall": 0.9942528735632183,
+          "f1-score": 0.9928263988522238,
+          "support": 348.0
+        },
+        "accuracy": 0.991899852724595,
+        "macro avg": {
+          "precision": 0.9919564782089901,
+          "recall": 0.9921609024437492,
+          "f1-score": 0.992056291649441,
+          "support": 1358.0
+        },
+        "weighted avg": {
+          "precision": 0.9919084553995529,
+          "recall": 0.991899852724595,
+          "f1-score": 0.9919017664155667,
+          "support": 1358.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          521,
+          2,
+          3
+        ],
+        [
+          4,
+          480,
+          0
+        ],
+        [
+          2,
+          0,
+          346
+        ]
+      ]
+    },
+    "rule_based": {
+      "name": "Combinatorial Rule-Based Detector",
+      "accuracy": 0.3947,
+      "macro_f1": 0.2681,
+      "avg_latency_ms": 0.093,
+      "per_class": {
+        "passive_aggressive": {
+          "precision": 1.0,
+          "recall": 0.10646387832699619,
+          "f1-score": 0.19243986254295534,
+          "support": 526.0
+        },
+        "non_passive_aggressive": {
+          "precision": 0.39914893617021274,
+          "recall": 0.96900826446281,
+          "f1-score": 0.5654008438818565,
+          "support": 484.0
+        },
+        "ambiguous": {
+          "precision": 0.08661417322834646,
+          "recall": 0.031609195402298854,
+          "f1-score": 0.04631578947368421,
+          "support": 348.0
+        },
+        "accuracy": 0.3946980854197349,
+        "macro avg": {
+          "precision": 0.49525436979951976,
+          "recall": 0.36902711273070166,
+          "f1-score": 0.26805216529949866,
+          "support": 1358.0
+        },
+        "weighted avg": {
+          "precision": 0.5517892617009186,
+          "recall": 0.3946980854197349,
+          "f1-score": 0.28791993436911284,
+          "support": 1358.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          56,
+          369,
+          101
+        ],
+        [
+          0,
+          469,
+          15
+        ],
+        [
+          0,
+          337,
+          11
+        ]
+      ]
+    },
+    "agreement_rate": 0.3932
+  },
+  "threat_classification": {
+    "labels": [
+      "no_threat",
+      "direct_threat",
+      "implied_threat",
+      "ambiguous"
+    ],
+    "ml_model": {
+      "name": "Logistic Regression (TF-IDF word 1-3, balanced)",
+      "accuracy": 0.5965,
+      "macro_f1": 0.2673,
+      "avg_latency_ms": 0.033,
+      "per_class": {
+        "no_threat": {
+          "precision": 0.9261025029797377,
+          "recall": 0.6296596434359806,
+          "f1-score": 0.7496382054992764,
+          "support": 1234.0
+        },
+        "direct_threat": {
+          "precision": 0.10596026490066225,
+          "recall": 0.3902439024390244,
+          "f1-score": 0.16666666666666666,
+          "support": 41.0
+        },
+        "implied_threat": {
+          "precision": 0.054878048780487805,
+          "recall": 0.21951219512195122,
+          "f1-score": 0.08780487804878048,
+          "support": 41.0
+        },
+        "ambiguous": {
+          "precision": 0.0392156862745098,
+          "recall": 0.19047619047619047,
+          "f1-score": 0.06504065040650407,
+          "support": 42.0
+        },
+        "accuracy": 0.5964653902798233,
+        "macro avg": {
+          "precision": 0.2815391257338494,
+          "recall": 0.35747298286828666,
+          "f1-score": 0.2672876001553069,
+          "support": 1358.0
+        },
+        "weighted avg": {
+          "precision": 0.8476081873059301,
+          "recall": 0.5964653902798233,
+          "f1-score": 0.6908826113670941,
+          "support": 1358.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          777,
+          127,
+          148,
+          182
+        ],
+        [
+          16,
+          16,
+          4,
+          5
+        ],
+        [
+          20,
+          3,
+          9,
+          9
+        ],
+        [
+          26,
+          5,
+          3,
+          8
+        ]
+      ]
+    },
+    "rule_based": {
+      "name": "Rule-Based Threat & Intimidation Engine",
+      "accuracy": 0.9131,
+      "macro_f1": 0.303,
+      "avg_latency_ms": 0.093,
+      "per_class": {
+        "no_threat": {
+          "precision": 0.9167904903417533,
+          "recall": 1.0,
+          "f1-score": 0.9565891472868217,
+          "support": 1234.0
+        },
+        "direct_threat": {
+          "precision": 1.0,
+          "recall": 0.14634146341463414,
+          "f1-score": 0.2553191489361702,
+          "support": 41.0
+        },
+        "implied_threat": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 41.0
+        },
+        "ambiguous": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 42.0
+        },
+        "accuracy": 0.9131075110456554,
+        "macro avg": {
+          "precision": 0.4791976225854383,
+          "recall": 0.2865853658536585,
+          "f1-score": 0.302977074055748,
+          "support": 1358.0
+        },
+        "weighted avg": {
+          "precision": 0.8632691200896344,
+          "recall": 0.9131075110456554,
+          "f1-score": 0.8769507311180565,
+          "support": 1358.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          1234,
+          0,
+          0,
+          0
+        ],
+        [
+          35,
+          6,
+          0,
+          0
+        ],
+        [
+          35,
+          0,
+          0,
+          6
+        ],
+        [
+          42,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "agreement_rate": 0.6222
+  },
+  "qualitative_comparison": {
+    "ml_strengths": [
+      "Fast sub-millisecond vectorized inference",
+      "Learns non-linear combination of word and character n-grams",
+      "Continuous calibrated probabilities across all 3 classes",
+      "Effective at capturing complex syntactic phrasing"
+    ],
+    "ml_limitations": [
+      "Sensitive to distribution shift outside synthetic templates",
+      "Opaque decision boundaries without post-hoc feature attribution",
+      "Struggles with class-imbalanced rare classes (threat)"
+    ],
+    "rule_strengths": [
+      "100% interpretable signals with exact phrase spans and tactic identification",
+      "Explicit benign override dictionaries preventing sarcasm/hyperbole false positives",
+      "Robust figurative threat detection ('destroy you in chess', 'kill it on stage')",
+      "Zero training data dependency"
+    ],
+    "rule_limitations": [
+      "Limited recall on novel paraphrases not covered in lexicons",
+      "Heuristic confidence score rather than calibrated posterior probability",
+      "Slightly higher per-sample CPU latency due to regex matching"
+    ]
+  }
+}

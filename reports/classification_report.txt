@@ -1,0 +1,17 @@
+=== CLASSIFICATION REPORT: pa-tfidf-svm-v1 ===
+Evaluated on held-out test split (N=1426)
+
+                    precision    recall  f1-score   support
+
+           neutral       0.97      0.98      0.98      1258
+passive_aggressive       0.92      0.70      0.79        33
+     overt_hostile       0.81      0.81      0.81       135
+
+          accuracy                           0.96      1426
+         macro avg       0.90      0.83      0.86      1426
+      weighted avg       0.96      0.96      0.96      1426
+
+Confusion Matrix (labels=['neutral', 'passive_aggressive', 'overt_hostile']):
+  [1231, 2, 25]
+  [10, 23, 0]
+  [25, 0, 110]

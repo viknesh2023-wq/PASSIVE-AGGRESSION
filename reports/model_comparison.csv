@@ -1,0 +1,6 @@
+model,accuracy,macro_f1,latency_ms
+MajorityBaseline,0.8822,0.3125,0.0
+TFIDF_LogReg,0.9516,0.8531,0.022
+TFIDF_LinearSVM,0.9565,0.8611,0.034
+Linguistic_LogReg,0.7868,0.5692,0.001
+XLM-RoBERTa-FineTuned,0.6987,0.6198,16.22

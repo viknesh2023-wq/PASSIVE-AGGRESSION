@@ -1,0 +1,16 @@
+/* ── Reset & Pure Black Root Styling ───────────────────────────────────────── */
+:root {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  color: #FFFFFF;
+}

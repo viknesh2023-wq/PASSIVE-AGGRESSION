@@ -1,0 +1,15 @@
+{
+  "total": 9000,
+  "unique_ids": 9000,
+  "label_dist": {
+    "passive_aggressive": 3394,
+    "non_passive_aggressive": 3379,
+    "ambiguous": 2227
+  },
+  "threat_dist": {
+    "no_threat": 8134,
+    "implied_threat": 283,
+    "ambiguous": 334,
+    "direct_threat": 249
+  }
+}

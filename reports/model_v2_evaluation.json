@@ -1,0 +1,159 @@
+{
+  "model_1_logistic_regression": {
+    "model_file": "models\\pa_classifier_v2.pkl",
+    "algorithm": "FeatureUnion(Word TF-IDF 1-3, Char TF-IDF 3-5) + LogisticRegression(balanced)",
+    "classes": [
+      "ambiguous",
+      "non_passive_aggressive",
+      "passive_aggressive"
+    ],
+    "train_samples": 6465,
+    "val_samples": 1406,
+    "test_samples": 1382,
+    "train_time_seconds": 2.184,
+    "avg_latency_ms": 0.2183,
+    "model_size_mb": 1.93,
+    "validation_accuracy": 0.9893,
+    "validation_macro_f1": 0.9895,
+    "test_accuracy": 0.987,
+    "test_macro_f1": 0.9872,
+    "test_log_loss": 0.0672,
+    "per_class": {
+      "passive_aggressive": {
+        "precision": 0.982791586998088,
+        "recall": 0.982791586998088,
+        "f1-score": 0.982791586998088,
+        "support": 523.0
+      },
+      "non_passive_aggressive": {
+        "precision": 0.996031746031746,
+        "recall": 0.984313725490196,
+        "f1-score": 0.9901380670611439,
+        "support": 510.0
+      },
+      "ambiguous": {
+        "precision": 0.9802816901408451,
+        "recall": 0.997134670487106,
+        "f1-score": 0.9886363636363636,
+        "support": 349.0
+      },
+      "accuracy": 0.9869753979739508,
+      "macro avg": {
+        "precision": 0.9863683410568931,
+        "recall": 0.98807999432513,
+        "f1-score": 0.9871886725651985,
+        "support": 1382.0
+      },
+      "weighted avg": {
+        "precision": 0.9870437773772398,
+        "recall": 0.9869753979739508,
+        "f1-score": 0.9869786578221956,
+        "support": 1382.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        514,
+        2,
+        7
+      ],
+      [
+        8,
+        502,
+        0
+      ],
+      [
+        1,
+        0,
+        348
+      ]
+    ]
+  },
+  "legacy_svm_comparison": {
+    "model_file": "models/pa_classifier.pkl",
+    "evaluated": true,
+    "binary_accuracy": 0.665,
+    "binary_macro_f1": 0.5192,
+    "avg_latency_ms": 0.0254,
+    "confusion_matrix": [
+      [
+        79,
+        444
+      ],
+      [
+        19,
+        840
+      ]
+    ]
+  },
+  "threat_classifier": {
+    "model_file": "models\\threat_classifier_v1.pkl",
+    "test_accuracy": 0.5398,
+    "test_macro_f1": 0.2497,
+    "per_class": {
+      "no_threat": {
+        "precision": 0.9281914893617021,
+        "recall": 0.5656401944894651,
+        "f1-score": 0.702920443101712,
+        "support": 1234.0
+      },
+      "direct_threat": {
+        "precision": 0.0898876404494382,
+        "recall": 0.3902439024390244,
+        "f1-score": 0.1461187214611872,
+        "support": 41.0
+      },
+      "implied_threat": {
+        "precision": 0.04864864864864865,
+        "recall": 0.21951219512195122,
+        "f1-score": 0.07964601769911504,
+        "support": 41.0
+      },
+      "ambiguous": {
+        "precision": 0.0411522633744856,
+        "recall": 0.23809523809523808,
+        "f1-score": 0.07017543859649122,
+        "support": 42.0
+      },
+      "accuracy": 0.5397643593519882,
+      "macro avg": {
+        "precision": 0.2769700104585686,
+        "recall": 0.35337288253641974,
+        "f1-score": 0.24971515521462637,
+        "support": 1358.0
+      },
+      "weighted avg": {
+        "precision": 0.8488929902703171,
+        "recall": 0.5397643593519882,
+        "f1-score": 0.6477227905111469,
+        "support": 1358.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        698,
+        152,
+        167,
+        217
+      ],
+      [
+        16,
+        16,
+        4,
+        5
+      ],
+      [
+        17,
+        4,
+        9,
+        11
+      ],
+      [
+        21,
+        6,
+        5,
+        10
+      ]
+    ]
+  }
+}

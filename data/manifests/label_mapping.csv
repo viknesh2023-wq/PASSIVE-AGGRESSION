@@ -1,0 +1,14 @@
+source_dataset,source_label,mapped_primary_label,mapped_threat_label,mapped_sentiment,rationale,mapped_sarcasm,mapped_tactic
+tweeteval_sentiment,1,non_passive_aggressive,no_threat,neutral,Neutral sentiment baseline; objective non-PA social tweets,,
+sarc_reddit_regular,0,non_passive_aggressive,no_threat,neutral,Everyday forum conversation without hostility,,
+sarc_reddit_sarcasm,1,non_passive_aggressive,no_threat,,Playful / non-hostile sarcasm hard-negative; not passive aggression,sarcastic,
+goemotions_auxiliary,28_emotions,unlabelled_auxiliary,no_threat,mixed,Multi-label emotion vectors for auxiliary representation only,,
+goemotions_hostile,anger/annoyance,non_passive_aggressive,no_threat,negative,Overt hostility / insults; direct anger is NOT indirect covert PA,,
+genz_synthetic_sarcasm,digital_banter,non_passive_aggressive,no_threat,,Playful Gen-Z digital banter; non-hostile,sarcastic,
+sarc_mined_pa,mined_pa_cue,passive_aggressive,no_threat,,Authentic forum comments containing high-precision PA cues,,mined_cue
+curated_pa_expansion,pa_tactic_template,passive_aggressive,no_threat,,Syntactic template expansions for 6 covert hostility tactics,,6_tactics
+contrastive_hard_negatives,contrastive_pair,non_passive_aggressive,no_threat,,Syntactic minimal pairs using polite/sincere framing without PA,,none
+gold_annotation_template,hand_annotated,verified_gold,verified_gold,,Hand-verified multi-annotator ground truth anchors,,annotated
+synthetic_pa_dataset,passive_aggressive,passive_aggressive,per_record,,"Controlled synthetic English social comments (3,394 rows)",,per_record
+synthetic_pa_dataset,non_passive_aggressive,non_passive_aggressive,per_record,,"Controlled synthetic English social comments (3,379 rows)",,per_record
+synthetic_pa_dataset,ambiguous,ambiguous,per_record,,"Controlled synthetic terse / dual-meaning comments (2,227 rows)",,per_record

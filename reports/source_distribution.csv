@@ -1,0 +1,11 @@
+source_dataset,total_records,neutral,passive_aggressive,overt_hostile,unlabelled_aux,gold_count,mapped_count,synthetic_count
+contrastive_hard_negatives,60,60,0,0,0,0,60,0
+curated_pa_expansion,53,0,53,0,0,0,0,53
+genz_synthetic_sarcasm,800,800,0,0,0,0,0,800
+goemotions_auxiliary,1000,0,0,0,1000,0,0,0
+goemotions_hostile,883,0,0,883,0,0,883,0
+gold_annotation_template,50,14,29,7,0,50,0,0
+sarc_mined_pa,143,0,143,0,0,0,143,0
+sarc_reddit_regular,2000,2000,0,0,0,0,2000,0
+sarc_reddit_sarcasm,2000,2000,0,0,0,0,2000,0
+tweeteval_sentiment,3500,3500,0,0,0,0,3500,0

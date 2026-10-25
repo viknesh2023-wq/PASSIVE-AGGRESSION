@@ -1,0 +1,135 @@
+{
+  "existing_sources": {
+    "total_records": 10489,
+    "cross_source_duplicates": 0,
+    "sources": [
+      {
+        "source_id": "tweeteval_sentiment",
+        "folder": "tweeteval_sentiment",
+        "expected_records": 3500,
+        "actual_records": 3500,
+        "unique_texts": 3500,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "301f1bc90aef..."
+      },
+      {
+        "source_id": "sarc_reddit_regular",
+        "folder": "sarc_reddit_regular",
+        "expected_records": 2000,
+        "actual_records": 2000,
+        "unique_texts": 2000,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "e3c9312a3c8e..."
+      },
+      {
+        "source_id": "sarc_reddit_sarcasm",
+        "folder": "sarc_reddit_sarcasm",
+        "expected_records": 2000,
+        "actual_records": 2000,
+        "unique_texts": 2000,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "78a710e038c4..."
+      },
+      {
+        "source_id": "goemotions_auxiliary",
+        "folder": "goemotions",
+        "expected_records": 1000,
+        "actual_records": 1000,
+        "unique_texts": 1000,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "604165eace86..."
+      },
+      {
+        "source_id": "goemotions_hostile",
+        "folder": "goemotions_anger_hostility",
+        "expected_records": 883,
+        "actual_records": 883,
+        "unique_texts": 883,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "5d989b3f3882..."
+      },
+      {
+        "source_id": "genz_synthetic_sarcasm",
+        "folder": "genz_sarc_banter",
+        "expected_records": 800,
+        "actual_records": 800,
+        "unique_texts": 800,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "790641e14f67..."
+      },
+      {
+        "source_id": "sarc_mined_pa",
+        "folder": "authentic_pa_mined",
+        "expected_records": 143,
+        "actual_records": 143,
+        "unique_texts": 143,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "4f93083a8b81..."
+      },
+      {
+        "source_id": "curated_pa_expansion",
+        "folder": "curated_pa_tactics",
+        "expected_records": 53,
+        "actual_records": 53,
+        "unique_texts": 53,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "012dbccd196d..."
+      },
+      {
+        "source_id": "contrastive_hard_negatives",
+        "folder": "contrastive_hard_negatives",
+        "expected_records": 60,
+        "actual_records": 60,
+        "unique_texts": 60,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "b8312352c564..."
+      },
+      {
+        "source_id": "gold_annotation_template",
+        "folder": "gold_pa_anchors",
+        "expected_records": 50,
+        "actual_records": 50,
+        "unique_texts": 50,
+        "duplicates": 0,
+        "null_texts": 0,
+        "sha256": "5ed170de7e11..."
+      }
+    ]
+  },
+  "synthetic_dataset": {
+    "total_records": 9000,
+    "unique_ids": 9000,
+    "unique_texts": 9000,
+    "duplicates": 0,
+    "missing_canonical_columns": [],
+    "primary_label_distribution": {
+      "passive_aggressive": 3394,
+      "non_passive_aggressive": 3379,
+      "ambiguous": 2227
+    },
+    "threat_label_distribution": {
+      "no_threat": 8134,
+      "ambiguous": 334,
+      "implied_threat": 283,
+      "direct_threat": 249
+    },
+    "review_status_distribution": {
+      "synthetic_unreviewed": 9000
+    }
+  },
+  "discrepancy_explanation": {
+    "reported_sources_total": 10520,
+    "actual_unified_total": 10489,
+    "delta": 31,
+    "cause": "Curated expansion deduplication (-29 rows from 82 to 53) and finalized gold template anchors (-2 rows from 52 to 50)."
+  }
+}

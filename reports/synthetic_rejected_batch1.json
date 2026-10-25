@@ -1,0 +1,7527 @@
+[
+  {
+    "id": "SYNPA-00041",
+    "text": "It's not my fault the issue flopped. I said my concerns at the start.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00101",
+    "text": "Noted. Guess the announcement doesn't matter then.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00109",
+    "text": "I notice the people criticizing the QT weren't around when the work happened. \ud83d\ude42",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00124",
+    "text": "No worries, I love being the only one who shows up for the video every single time.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00168",
+    "text": "Can't wait to spend my weekend fixing the post. So excited. \ud83d\udc85...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00173",
+    "text": "Certain people contributing to the raid plan might want to check their track record.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00210",
+    "text": "Can't wait to spend my weekend fixing the task. So excited.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00226",
+    "text": "Some people just love sharing opinions on the video without the receipts.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00238",
+    "text": "If that's how you want to handle the brand deal, be my guest. \ud83d\udc40...",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00294",
+    "text": "Some people just love sharing opinions on the video without the receipts.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00329",
+    "text": "Finally got the duet right after a few tries. Proud of you \ud83d\ude42 \ud83d\udc85",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00352",
+    "text": "If that's how you want to handle the brand deal, be my guest. \ud83d\udc85",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00354",
+    "text": "Better late than never with the post, I suppose. \ud83d\ude07",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00380",
+    "text": "Funny how the loudest voices about the new upload are usually the least informed.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00382",
+    "text": "Funny how the loudest voices about the comment thread are usually the least informed. \ud83d\ude07",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00388",
+    "text": "I just find it interesting that the situation was posted without any context.",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00402",
+    "text": "I notice the people criticizing the QT weren't around when the work happened. \ud83d\ude10",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00404",
+    "text": "Okay. Can we move on from the comment thread now...",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00407",
+    "text": "I'm not saying the raid plan was poorly thought out, but... well.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00430",
+    "text": "Right. Because your idea about the photo is obviously the best one...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00435",
+    "text": "You really outdid yourself on the video response! That's surprising given last time.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00456",
+    "text": "Thanks for pointing out what was literally written in the description of the comment thread \ud83d\ude43",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00457",
+    "text": "We all saw how the project was going. Some of us tried to warn everyone. \ud83e\udd21",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00474",
+    "text": "At least the caption is an improvement on what you did before...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00480",
+    "text": "Amazing how the series format always gets updated right before the deadline \ud83d\ude42",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00483",
+    "text": "Thanks for pointing out what was literally written in the description of the comment thread \ud83d\ude43...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00483",
+    "text": "Whoever missed the the post check-in is now responsible for all of this. \ud83d\ude43...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00489",
+    "text": "I can't be responsible for the video when key people don't show up. \u2615",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00496",
+    "text": "Wonderful plan. I'm sure the script will go perfectly. As always...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00498",
+    "text": "Thanks for the unsolicited advice on the caption \ud83d\ude0a super helpful as always...",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00508",
+    "text": "Thanks for eventually weighing in on the argument after the rest of us sorted it \ud83d\ude42 \ud83e\udd21",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00535",
+    "text": "Oh brilliant, another last-minute change to the thread. Peak organization.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00538",
+    "text": "Whoever missed the the QT check-in is now responsible for all of this.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00542",
+    "text": "Not bad for a first serious attempt at the post!",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00545",
+    "text": "I just find it interesting that the new look was posted without any context. \ud83d\ude44...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00551",
+    "text": "Incredible that the plan was approved like that. Truly visionary.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00560",
+    "text": "Incredible that the plan was approved like that. Truly visionary.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00578",
+    "text": "I'm not saying the thread was poorly thought out, but... well. \ud83d\udc40",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00585",
+    "text": "Funny how the problems with the task appeared right after [certain changes] \ud83d\ude43 \ud83d\udc40",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00591",
+    "text": "Of course. I'll just wait here while you decide whether the plan matters.",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00591",
+    "text": "It's wild how some folks will post on the original and never respond to comments.",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00609",
+    "text": "If that's how you want to handle the thread, be my guest.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00612",
+    "text": "If someone had actually read the trend, we wouldn't be in this situation.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00628",
+    "text": "Funny how the problems with the task appeared right after [certain changes] \ud83d\ude43 \ud83d\udc4d",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00643",
+    "text": "Appreciate you engaging with the post, even if you clearly didn't watch it \ud83d\udc4d \ud83d\ude43",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00649",
+    "text": "Oh sure, let's scrap everything and restart the comment thread. Makes total sense \ud83d\udc4f",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00651",
+    "text": "Noted. Guess the strat doesn't matter then.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00654",
+    "text": "Kind of obsessed with how you overcame your usual weaknesses on the solution.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00667",
+    "text": "Not that I'm keeping score on the QT but yes, I noticed who didn't comment...",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00670",
+    "text": "Great idea! Let's ask everyone's opinion on the post and then ignore it.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00675",
+    "text": "Interesting approach to the new look. Definitely an approach. \ud83d\udc40...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00676",
+    "text": "Sounds like a plan. Let's see how the thread turns out.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00680",
+    "text": "Interesting approach to the draft. Definitely an approach.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00685",
+    "text": "Thanks for the 'support' on the thread \ud83d\ude42 really felt it.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00693",
+    "text": "I wonder how many people actually watch the comment before sharing it. \ud83d\udc4f",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00696",
+    "text": "Some people just love sharing opinions on the photo without the receipts...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00705",
+    "text": "I don't know who decided to redo the project without asking but good luck fixing it.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00707",
+    "text": "Right. Because your idea about the post is obviously the best one.",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00707",
+    "text": "Thanks for pointing out what was literally written in the description of the comment \ud83d\ude43",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00709",
+    "text": "This the issue gave me real professional vibes \u2014 didn't see that coming.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00709",
+    "text": "Of course, the best time to announce the video changes is after it's done. \ud83d\udc4d",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00719",
+    "text": "Sounds like a plan. Let's see how the thread turns out.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00719",
+    "text": "Right. Because your idea about the submission is obviously the best one. \ud83e\udd21...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00720",
+    "text": "Interesting approach to the community tab. Definitely an approach.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00724",
+    "text": "Of course, the best time to announce the vote changes is after it's done.",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00726",
+    "text": "Wonderful plan. I'm sure the video will go perfectly. As always...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00732",
+    "text": "Thanks for pointing out what was literally written in the description of the comment \ud83d\ude43",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00732",
+    "text": "If you say so. I've said my piece about the sound. \ud83d\udc4f",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00734",
+    "text": "Some people just love sharing opinions on the judgment without the receipts.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00741",
+    "text": "Oh sure, let's scrap everything and restart the situation. Makes total sense \ud83d\udc4f...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00750",
+    "text": "People keep acting confused about the TikTok like the problems weren't obvious.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00751",
+    "text": "Incredible that the plan was approved like that. Truly visionary.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00754",
+    "text": "Yeah, let's definitely go with the option nobody wanted for the comment.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00762",
+    "text": "Interesting approach to the opinion. Definitely an approach.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00769",
+    "text": "Okay. Can we move on from the QT now?",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00780",
+    "text": "Not pointing fingers at the collab reel, just saying some patterns are hard to miss.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00786",
+    "text": "Whatever you say. I'm done arguing about the plan.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00795",
+    "text": "Oh absolutely, posting the thread at midnight with no context is peak strategy.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00799",
+    "text": "Appreciate you engaging with the strat, even if you clearly didn't watch it \ud83d\udc4d...",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00799",
+    "text": "Not gonna say anything about the thread... but some people should reflect. \ud83d\udc40",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00803",
+    "text": "Thanks for the 'support' on the thread \ud83d\ude42 really felt it.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00806",
+    "text": "It's wild how some folks will post on the announcement and never respond to comments.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00809",
+    "text": "Interesting approach to the opinion. Definitely an approach.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00809",
+    "text": "Great. So we're just ignoring the duet. Cool.",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00812",
+    "text": "Okay. Can we move on from the post now?",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00815",
+    "text": "If you say so. I've said my piece about the thread. \ud83d\udc80",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00815",
+    "text": "Some people just love sharing opinions on the raid plan without the receipts.",
+    "label": "passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00831",
+    "text": "Oh absolutely, posting the issue at midnight with no context is peak strategy.",
+    "label": "passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00914",
+    "text": "Totally on board with the direction for the situation!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00933",
+    "text": "Reminder: the thread is scheduled for review tomorrow at 3 PM.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00942",
+    "text": "I can't believe the task was approved without any quality check. That's on leadership.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00945",
+    "text": "I'm genuinely frustrated with how the new upload was handled. This isn't okay.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00961",
+    "text": "The the photo report has been submitted. Waiting on approvals now.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00969",
+    "text": "Oh sure, let's ALL meet on the ONE day I had plans for the situation \ud83d\udc80",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00971",
+    "text": "The the thread wifi cutting out mid-presentation is SO on brand lmao",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00974",
+    "text": "Really appreciate how much effort went into the issue \ud83d\ude4c",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00997",
+    "text": "I'm happy to defer to your expertise on the choice.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-00998",
+    "text": "Solid collaboration on the raid plan \u2014 this is what teamwork looks like \ud83d\udd25 \ud83d\ude4c",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01002",
+    "text": "The argument in the community tab loses me at the third paragraph \u2014 needs clarification.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01010",
+    "text": "I'm angry about the take. Not in a subtle way \u2014 directly and openly angry.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01018",
+    "text": "FYI: the judgment is on hold pending review. No changes until then.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01020",
+    "text": "I'm angry about the plan. Not in a subtle way \u2014 directly and openly angry.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01024",
+    "text": "Really appreciate how much effort went into the update \ud83d\ude4c",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01033",
+    "text": "Reminder: the judgment is scheduled for review tomorrow at 3 PM.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01045",
+    "text": "No objections here \u2014 let's move forward with the take.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01061",
+    "text": "Whatever works best for the team on the reply is fine with me!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01063",
+    "text": "I'm raising this formally. the event standards have been consistently ignored.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01072",
+    "text": "I'm worried the thread doesn't address the main concern that was raised.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01079",
+    "text": "The timeline for the thread has been updated. Check the pinned message.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01138",
+    "text": "Wow the sound somehow got even more chaotic. Truly thriving \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01140",
+    "text": "Just checking \u2014 is the situation the latest version or should I use the older one?",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01169",
+    "text": "I'm calling this out: the issue failed because of lack of accountability.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01191",
+    "text": "Honest feedback: the thread felt rushed compared to your previous work.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01203",
+    "text": "For context: the announcement was originally proposed two weeks ago.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01205",
+    "text": "No, I'm not okay with the solution. I'm saying that clearly and directly.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01210",
+    "text": "I'm upset and I'm saying so: the new look was mishandled from the start.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01210",
+    "text": "I'm flexible on the announcement \u2014 whatever the group decides works for me. \ud83d\ude80",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01227",
+    "text": "Wow the task somehow got even more chaotic. Truly thriving \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01231",
+    "text": "Free time this weekend? Absolutely not \u2014 the argument needs me. As always \ud83e\udee0",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01234",
+    "text": "I'm raising this formally. the video standards have been consistently ignored.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01240",
+    "text": "Reminder: the thread is scheduled for review tomorrow at 3 PM.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01240",
+    "text": "Oh sure, let's ALL meet on the ONE day I had plans for the opinion \ud83d\udc80 \ud83d\ude4c",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01241",
+    "text": "Coffee machine broken on the day of the big the post? Classic.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01242",
+    "text": "Just checking \u2014 is the situation the latest version or should I use the older one?",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01245",
+    "text": "The current version of the situation misses several key points from our earlier discussion.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01246",
+    "text": "The the issue wifi cutting out mid-presentation is SO on brand lmao",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01252",
+    "text": "Just checking \u2014 is the situation the latest version or should I use the older one?",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01253",
+    "text": "This is a hard no from me. the QT needs to be completely redone. \u2764\ufe0f",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01261",
+    "text": "I'm worried the thread doesn't address the main concern that was raised.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01274",
+    "text": "Sharing the series format here as requested. Let me know if anything is missing.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01276",
+    "text": "I'm worried the original doesn't address the main concern that was raised.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01279",
+    "text": "I'm calling this out: the thread failed because of lack of accountability.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01282",
+    "text": "This whole the post thread restored my faith in this community.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01284",
+    "text": "Totally on board with the direction for the solution!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01286",
+    "text": "The the thread wifi cutting out mid-presentation is SO on brand lmao",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01286",
+    "text": "For context: the argument was originally proposed two weeks ago.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01289",
+    "text": "the thread came out even better than expected! Proud of everyone involved. \ud83d\ude4c",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01294",
+    "text": "Solid collaboration on the thread \u2014 this is what teamwork looks like \ud83d\udd25 \ud83d\ude02",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01296",
+    "text": "Updated the situation with the corrections from last session. See thread. \ud83d\udc4f",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01310",
+    "text": "the solution needs to be revised. The conclusions don't follow from the data shown. \ud83d\udc4f",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01317",
+    "text": "This is a hard no from me. the post needs to be completely redone. \ud83d\udca1",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01323",
+    "text": "FYI: the thread is on hold pending review. No changes until then. \ud83d\ude02",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01329",
+    "text": "This the comment is genuinely amazing \u2014 thank you so much for putting it together!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01329",
+    "text": "I'm flexible on the vote \u2014 whatever the group decides works for me.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01333",
+    "text": "Oh great, the draft broke again right before the deadline. Love that for us \ud83d\ude02 \ud83d\udcaf",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01335",
+    "text": "the announcement has a real consistency problem that needs to be addressed before launch.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01344",
+    "text": "Perfect timing on the tweet going viral right when the servers can't handle it \ud83d\ude02",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01347",
+    "text": "I'm so here for this the new upload energy. Pure quality.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01348",
+    "text": "The editing on the story highlight is inconsistent. Worth another review before going live.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01349",
+    "text": "I'm calling this out: the argument failed because of lack of accountability. \ud83d\udca1",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01351",
+    "text": "Sure, whatever you think is best for the new look \u2014 I trust your judgment.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01353",
+    "text": "You really knocked it out of the park with the video this time! \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01356",
+    "text": "Totally on board with the direction for the solution!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01356",
+    "text": "No objections here \u2014 let's move forward with the situation.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01361",
+    "text": "The the task report has been submitted. Waiting on approvals now.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01362",
+    "text": "I'm calling this out: the thread failed because of lack of accountability.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01367",
+    "text": "Solid collaboration on the thread \u2014 this is what teamwork looks like \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01369",
+    "text": "For context: the announcement was originally proposed two weeks ago. \ud83d\udcaf",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01386",
+    "text": "Oh the the video ended early? Don't worry we'll lose sleep over it anyway \ud83d\ude2d \ud83d\udcaf",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01386",
+    "text": "the solution needs to be revised. The conclusions don't follow from the data shown.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01392",
+    "text": "I'm raising this formally. the video standards have been consistently ignored.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01403",
+    "text": "I'm happy to defer to your expertise on the project.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01403",
+    "text": "Whatever works best for the team on the original is fine with me!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01404",
+    "text": "Reminder: the video is scheduled for review tomorrow at 3 PM.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01404",
+    "text": "FYI: the judgment is on hold pending review. No changes until then.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01414",
+    "text": "Honest feedback: the thread felt rushed compared to your previous work.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01416",
+    "text": "Here's a summary of the series format for anyone who missed the earlier discussion. \u2764\ufe0f",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01419",
+    "text": "The feedback on the strat has been so constructive. Love this community.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01428",
+    "text": "Sure, whatever you think is best for the comment thread \u2014 I trust your judgment.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01428",
+    "text": "Direct feedback: the raid plan was not ready and should never have been published.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01435",
+    "text": "I love the direction of the reply! Keep it up!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01436",
+    "text": "Reminder: the video is scheduled for review tomorrow at 3 PM.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01437",
+    "text": "I'm upset and I'm saying so: the comment thread was mishandled from the start.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01448",
+    "text": "Fine by me, let's go with your recommendation on the task.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01451",
+    "text": "The updated version of the post has been uploaded to the drive.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01451",
+    "text": "Whatever works best for the team on the task is fine with me!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01453",
+    "text": "I love the direction of the reply! Keep it up!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01458",
+    "text": "Direct feedback: the post was not ready and should never have been published. \ud83d\ude0d",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01460",
+    "text": "Thank you for such a thorough breakdown of the video response \u2014 super helpful!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01484",
+    "text": "Fine by me, let's go with your recommendation on the reply.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01489",
+    "text": "Fine by me, let's go with your recommendation on the video response.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01496",
+    "text": "Can someone share the link to the story highlight? Can't find it in the channel.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01499",
+    "text": "Truly the universe loves us \u2014 the opinion went down during peak hours again \ud83d\ude2d \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01510",
+    "text": "Fine by me, let's go with your recommendation on the thread.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01515",
+    "text": "Your call on the plan, you know it best.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01516",
+    "text": "The the event report has been submitted. Waiting on approvals now.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01522",
+    "text": "Reminder: the thread is scheduled for review tomorrow at 3 PM.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01527",
+    "text": "the post came out even better than expected! Proud of everyone involved.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01534",
+    "text": "I strongly recommend against publishing the comment until the attribution is fixed.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01534",
+    "text": "The the thread wifi cutting out mid-presentation is SO on brand lmao",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01534",
+    "text": "Has anyone reviewed the duet yet? Waiting on feedback before proceeding.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01534",
+    "text": "Fine by me, let's go with your recommendation on the thread.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01535",
+    "text": "Your call on the duet, you know it best.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01535",
+    "text": "Just want to say how much I appreciate the work on the situation \ud83d\udcaf",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01538",
+    "text": "Reminder: the update is scheduled for review tomorrow at 3 PM.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01538",
+    "text": "I strongly recommend against publishing the new look until the attribution is fixed.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01545",
+    "text": "I'm angry about the choice. Not in a subtle way \u2014 directly and openly angry.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01550",
+    "text": "The feedback on the tweet has been so constructive. Love this community.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01555",
+    "text": "The the photo report has been submitted. Waiting on approvals now.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01555",
+    "text": "Solid collaboration on the thread \u2014 this is what teamwork looks like \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01556",
+    "text": "the video has a real consistency problem that needs to be addressed before launch.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01557",
+    "text": "Updated the strat with the corrections from last session. See thread.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01559",
+    "text": "If that's what makes the caption work best, I'm all for it.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01560",
+    "text": "The the QT formatting breaking on every browser except mine is so relatable. \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01560",
+    "text": "Wow the video response somehow got even more chaotic. Truly thriving \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01562",
+    "text": "Huge shoutout to everyone who contributed to the announcement. Outstanding work!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01564",
+    "text": "No objections here \u2014 let's move forward with the situation. \ud83d\udc4c",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01565",
+    "text": "Really appreciate how much effort went into the event \ud83d\ude4c",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01566",
+    "text": "FYI: the video response is on hold pending review. No changes until then. \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01566",
+    "text": "the project has potential but the execution needs another pass.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01569",
+    "text": "Sharing the situation here as requested. Let me know if anything is missing. \ud83d\udc4f",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01569",
+    "text": "Free time this weekend? Absolutely not \u2014 the judgment needs me. As always \ud83e\udee0",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01576",
+    "text": "I'd push back on the video response \u2014 the framing is off and could mislead people.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01580",
+    "text": "The the trend formatting breaking on every browser except mine is so relatable.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01580",
+    "text": "Whatever works best for the team on the post is fine with me! \ud83d\ude4c",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01581",
+    "text": "The feedback on the tweet has been so constructive. Love this community.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01584",
+    "text": "I can't believe the reply was approved without any quality check. That's on leadership.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01587",
+    "text": "The feedback on the plan has been so constructive. Love this community.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01588",
+    "text": "The updated version of the opinion has been uploaded to the drive.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01594",
+    "text": "Updated the choice with the corrections from last session. See thread.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01600",
+    "text": "Wow the thread somehow got even more chaotic. Truly thriving \ud83d\udd25 \ud83d\udca1",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01601",
+    "text": "Sure, whatever you think is best for the situation \u2014 I trust your judgment.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01611",
+    "text": "Three hours into the comment thread and the power went out. Storytelling arc of the year. \ud83d\ude4c",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01611",
+    "text": "The updated version of the community tab has been uploaded to the drive.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01613",
+    "text": "You really knocked it out of the park with the thread this time!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01616",
+    "text": "Wow the task somehow got even more chaotic. Truly thriving \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01617",
+    "text": "Sounds good to me \u2014 let's run with the task as planned.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01621",
+    "text": "Oh amazing, the entire the photo system crashed on the busiest day. Love it.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01621",
+    "text": "The the thread report has been submitted. Waiting on approvals now.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01622",
+    "text": "Truly the universe loves us \u2014 the plan went down during peak hours again \ud83d\ude2d",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01624",
+    "text": "The the photo report has been submitted. Waiting on approvals now.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01624",
+    "text": "I can't believe the submission was approved without any quality check. That's on leadership.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01624",
+    "text": "The current version of the new upload misses several key points from our earlier discussion.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01624",
+    "text": "This approach to the brand deal has a significant flaw that should be fixed first.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01625",
+    "text": "Does anyone have access to the draft? Can't seem to pull it up.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01627",
+    "text": "I'm flexible on the video \u2014 whatever the group decides works for me.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01628",
+    "text": "Perfect timing on the new upload going viral right when the servers can't handle it \ud83d\ude02",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01640",
+    "text": "Genuinely excited to see where the video response goes from here! \u2764\ufe0f",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01643",
+    "text": "Your call on the announcement, you know it best.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01643",
+    "text": "The updated version of the community tab has been uploaded to the drive.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01645",
+    "text": "Sure, whatever you think is best for the situation \u2014 I trust your judgment.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01646",
+    "text": "Whatever works best for the team on the issue is fine with me!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01646",
+    "text": "Oh sure, let's ALL meet on the ONE day I had plans for the comment section \ud83d\udc80 \ud83d\udd25",
+    "label": "non_passive_aggressive",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01648",
+    "text": "I'm happy to defer to your expertise on the story highlight.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01648",
+    "text": "Direct feedback: the thread was not ready and should never have been published.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01653",
+    "text": "I strongly recommend against publishing the QT until the attribution is fixed.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01660",
+    "text": "Totally on board with the direction for the series format!",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01660",
+    "text": "FYI: the announcement is on hold pending review. No changes until then.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01663",
+    "text": "Honestly the the TikTok outage on launch day is on-brand at this point lmao.",
+    "label": "non_passive_aggressive",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01686",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01688",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01690",
+    "text": "K. \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01707",
+    "text": "Fair enough. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01729",
+    "text": "Sure thing. \ud83d\udcad",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01733",
+    "text": "Interesting timing on the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01735",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01739",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01742",
+    "text": "Classic. Just classic the sound.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01754",
+    "text": "You do you with the argument.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01754",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01754",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01762",
+    "text": "Didn't expect to see the duet today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01762",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01762",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01763",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01772",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01783",
+    "text": "Didn't expect to see the draft today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01787",
+    "text": "So we're just doing the submission like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01790",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01796",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01799",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01799",
+    "text": "Seems like a big shift for the TikTok. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01801",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01803",
+    "text": "Interesting timing on the event.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01807",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01808",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01816",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01817",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01818",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01822",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01822",
+    "text": "Seems like a big shift for the vote. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01827",
+    "text": "Let's see what the response to the plan looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01828",
+    "text": "Bold move posting the comment thread without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01833",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01835",
+    "text": "I have no words for the situation \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01835",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01838",
+    "text": "Look at you go with the new upload.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01849",
+    "text": "Sure thing. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01854",
+    "text": "Classic. Just classic the sound.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01854",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01856",
+    "text": "You do you with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01866",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01874",
+    "text": "I have no words for the opinion \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01875",
+    "text": "Saying nothing about the new upload. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01875",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01875",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "Well, that just happened with the video. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "The way the solution just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "I guess the vote will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "the thread happened and I have thoughts. Many thoughts. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "You do you with the vote.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01877",
+    "text": "Quite a development on the community tab.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01879",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01897",
+    "text": "Understood. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01897",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01898",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01899",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01899",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01901",
+    "text": "Can't say I saw that coming with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01901",
+    "text": "I have no words for the post \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01904",
+    "text": "Hmm. That's one perspective on the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01911",
+    "text": "Saying nothing about the strat. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01911",
+    "text": "Look at you go with the new upload.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01911",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01912",
+    "text": "Logging off after seeing the take. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01914",
+    "text": "The way the series format just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01914",
+    "text": "Seems like a big shift for the submission. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01916",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01916",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01917",
+    "text": "Understood. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01918",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01921",
+    "text": "You do you with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01924",
+    "text": "Not what I expected from the collab reel, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01929",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01933",
+    "text": "Are we sure the collab reel is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01933",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01938",
+    "text": "The way the situation just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01939",
+    "text": "Hard to tell until we see results from the comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01942",
+    "text": "That's definitely a choice for the comment thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01943",
+    "text": "Not what I expected from the new upload, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01944",
+    "text": "Well, that just happened with the submission.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01944",
+    "text": "That is definitely one way to do the video response.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01945",
+    "text": "Hard to tell until we see results from the community tab.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01945",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01946",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01946",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01946",
+    "text": "The way the solution just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01947",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01952",
+    "text": "Classic. Just classic the script.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01952",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01954",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01954",
+    "text": "Bold move posting the choice without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01959",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01960",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01962",
+    "text": "Can't say I saw that coming with the raid plan.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01962",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01962",
+    "text": "Logging off after seeing the opinion. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01973",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01974",
+    "text": "Not what I expected from the QT, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01976",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01980",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01984",
+    "text": "I have no words for the post \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01986",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01987",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01987",
+    "text": "Not what I expected from the QT, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01988",
+    "text": "K. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01990",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-01996",
+    "text": "Logging off after seeing the take. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02004",
+    "text": "That's definitely a choice for the opinion.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02007",
+    "text": "I hear what you're saying about the choice.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02009",
+    "text": "Right. \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02010",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02015",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02015",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02015",
+    "text": "Curious to see how the sound lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02015",
+    "text": "That's certainly an interesting take on the trend.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02016",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02017",
+    "text": "A bit surprised given previous discussions about the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02018",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02021",
+    "text": "I guess the submission will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02022",
+    "text": "Hard to tell until we see results from the take.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02023",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02024",
+    "text": "the script happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02025",
+    "text": "Saying nothing about the tweet. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02025",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02030",
+    "text": "I suppose that's possible with the draft.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02030",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02032",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02032",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02033",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02033",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02033",
+    "text": "Saying nothing about the announcement. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02034",
+    "text": "So we're just doing the thread like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02035",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02036",
+    "text": "That is definitely one way to do the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02036",
+    "text": "Seems like a big shift for the thread. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02036",
+    "text": "I'll just leave the thread right here without comment. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02036",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02036",
+    "text": "I hear what you're saying about the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02037",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02037",
+    "text": "Bold move posting the project without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02037",
+    "text": "So we're just doing the thread like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02037",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02037",
+    "text": "Classic. Just classic the sound.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02037",
+    "text": "Let's see what the response to the choice looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02037",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02037",
+    "text": "We'll see how the thread plays out. \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02038",
+    "text": "Can't say I saw that coming with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02039",
+    "text": "I guess the reply will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02041",
+    "text": "Seems like a big shift for the thread. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02041",
+    "text": "Hmm. That's one perspective on the issue.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02042",
+    "text": "Didn't expect to see the situation today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02042",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02042",
+    "text": "Look at you go with the comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02042",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02042",
+    "text": "I guess the vote will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02043",
+    "text": "Quite a development on the draft.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02043",
+    "text": "That's certainly an interesting take on the comment section. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02044",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02045",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02045",
+    "text": "I suppose that's possible with the solution.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02045",
+    "text": "So we're just doing the sound like this now? \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02045",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02046",
+    "text": "Classic. Just classic the sound.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02048",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02048",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02050",
+    "text": "the video response happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02051",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02051",
+    "text": "Look at you go with the new upload.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02052",
+    "text": "Didn't expect to see the project today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02053",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02054",
+    "text": "Curious to see how the submission lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02054",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02054",
+    "text": "That is definitely one way to do the sound.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02056",
+    "text": "Saying nothing about the plan. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02056",
+    "text": "Are we sure the strat is the right move here? \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02056",
+    "text": "The way the situation just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02057",
+    "text": "Classic. Just classic the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02057",
+    "text": "Seems like a big shift for the issue. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02061",
+    "text": "the thread happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02061",
+    "text": "Well, that just happened with the video response.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02063",
+    "text": "A bit surprised given previous discussions about the announcement.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02064",
+    "text": "I hear what you're saying about the collab reel.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02064",
+    "text": "I have no words for the opinion \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02067",
+    "text": "Interesting. \ud83d\udcad",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02072",
+    "text": "The audacity of the reply to show up on my feed today. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02074",
+    "text": "I guess the video will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02079",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02081",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02081",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02083",
+    "text": "Quite a development on the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02083",
+    "text": "Bold move posting the comment thread without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02087",
+    "text": "Saying nothing about the tweet. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02087",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02087",
+    "text": "You do you with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02091",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02091",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02092",
+    "text": "The way the story highlight just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02093",
+    "text": "Bold move posting the announcement without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02094",
+    "text": "Fair enough. \ud83d\udcad",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02094",
+    "text": "I'll just leave the thread right here without comment. \ud83d\udcad",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02094",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02094",
+    "text": "Classic. Just classic the video response.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02094",
+    "text": "Didn't expect to see the duet today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02095",
+    "text": "I guess the event will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02099",
+    "text": "the thread happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02100",
+    "text": "Quite a development on the comment. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02103",
+    "text": "Quite a development on the tweet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02103",
+    "text": "Saying nothing about the plan. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02103",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02103",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02105",
+    "text": "Can't say I saw that coming with the raid plan.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02105",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02108",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02108",
+    "text": "Could go either way with the plan. \ud83d\ude36",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02108",
+    "text": "Hmm. That's one perspective on the video.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02109",
+    "text": "Seems like a big shift for the video. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02109",
+    "text": "Let's see what the response to the choice looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02110",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02113",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02113",
+    "text": "That's certainly an interesting take on the opinion.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02114",
+    "text": "the thread happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02116",
+    "text": "Seems like a big shift for the thread. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02118",
+    "text": "The way the situation just dropped with no context\u2026 \ud83d\ude36",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02118",
+    "text": "Saying nothing about the situation. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02118",
+    "text": "I suppose that's possible with the take.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02120",
+    "text": "Interesting. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02120",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02120",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02120",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02120",
+    "text": "Didn't expect to see the draft today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02124",
+    "text": "I suppose that's possible with the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02127",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02131",
+    "text": "Are we sure the announcement is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02142",
+    "text": "I hear what you're saying about the trend.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02142",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02142",
+    "text": "Not what I expected from the trend, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02143",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02143",
+    "text": "Didn't expect to see the comment thread today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02143",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02143",
+    "text": "I suppose that's possible with the QT.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02145",
+    "text": "Not what I expected from the choice, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02146",
+    "text": "That's certainly an interesting take on the trend.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02146",
+    "text": "Look at you go with the community tab.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02147",
+    "text": "I suppose that's possible with the new look.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02147",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02147",
+    "text": "I guess the raid plan will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02147",
+    "text": "Saying nothing about the choice. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02147",
+    "text": "Didn't expect to see the solution today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02150",
+    "text": "Logging off after seeing the collab reel. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02153",
+    "text": "We'll see how the submission plays out.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02153",
+    "text": "Hmm. That's one perspective on the submission.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02154",
+    "text": "Seems like a big shift for the TikTok. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02155",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02155",
+    "text": "That's definitely a choice for the comment section.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02156",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02158",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02159",
+    "text": "I suppose that's possible with the new upload.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02160",
+    "text": "Interesting. \ud83d\udcad",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02160",
+    "text": "So we're just doing the thread like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02162",
+    "text": "That's certainly an interesting take on the tweet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02164",
+    "text": "I have no words for the story highlight \ud83d\udc80 \ud83d\ude36",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02164",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02166",
+    "text": "You do you with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02166",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02166",
+    "text": "Seems like a big shift for the judgment. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02173",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02175",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02177",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02178",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02179",
+    "text": "Well, that just happened with the update.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02181",
+    "text": "Got it. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02181",
+    "text": "I hear what you're saying about the comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02181",
+    "text": "A bit surprised given previous discussions about the series format.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02181",
+    "text": "Are we sure the trend is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02183",
+    "text": "The way the series format just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02183",
+    "text": "I hear what you're saying about the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02185",
+    "text": "Logging off after seeing the plan. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02188",
+    "text": "Are we sure the duet is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02190",
+    "text": "Quite a development on the QT.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02191",
+    "text": "Could go either way with the series format.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02191",
+    "text": "Let's see what the response to the choice looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02193",
+    "text": "I suppose that's possible with the take.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02193",
+    "text": "the vote happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02193",
+    "text": "Seems like a big shift for the vote. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02193",
+    "text": "That's certainly an interesting take on the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02193",
+    "text": "Let's see what the response to the project looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02194",
+    "text": "Could go either way with the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02194",
+    "text": "That's definitely a choice for the comment thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02195",
+    "text": "Well, that just happened with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02196",
+    "text": "Let's see what the response to the community tab looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02196",
+    "text": "Interesting timing on the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02196",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02196",
+    "text": "the script happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02197",
+    "text": "Different people have different approaches to the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02197",
+    "text": "Seems like a big shift for the TikTok. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02199",
+    "text": "That's certainly an interesting take on the story highlight.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02199",
+    "text": "Hmm. That's one perspective on the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02202",
+    "text": "Bold move posting the comment without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02202",
+    "text": "You do you with the event. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02203",
+    "text": "That's definitely a choice for the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02203",
+    "text": "I guess the vote will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02204",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02204",
+    "text": "I'll just leave the video right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02208",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02208",
+    "text": "Could go either way with the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02208",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02208",
+    "text": "Memorable. Truly memorable the raid plan. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02208",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02208",
+    "text": "Saying nothing about the take. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02210",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02213",
+    "text": "Didn't expect to see the story highlight today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02213",
+    "text": "Let's see what the response to the draft looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02213",
+    "text": "Curious to see how the vote lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02213",
+    "text": "Seems like a big shift for the video. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02213",
+    "text": "Not what I expected from the opinion, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02213",
+    "text": "Are we sure the situation is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02214",
+    "text": "I'll just leave the judgment right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02215",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02215",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02215",
+    "text": "Sure thing. \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02215",
+    "text": "Didn't expect to see the announcement today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02216",
+    "text": "Are we sure the community tab is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02218",
+    "text": "Not what I expected from the opinion, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02219",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02219",
+    "text": "So we're just doing the announcement like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02219",
+    "text": "A bit surprised given previous discussions about the comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02221",
+    "text": "the photo happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02222",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02222",
+    "text": "I suppose that's possible with the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02224",
+    "text": "The audacity of the thread to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02224",
+    "text": "Well, that just happened with the submission.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02224",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02225",
+    "text": "I suppose that's possible with the tweet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02226",
+    "text": "We'll see how the thread plays out.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02227",
+    "text": "Memorable. Truly memorable the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02229",
+    "text": "the script happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02229",
+    "text": "Whatever. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02229",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02232",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02232",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02233",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02233",
+    "text": "Curious to see how the reply lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02233",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02235",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02237",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02238",
+    "text": "I guess the reply will tell us if this works. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02238",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02239",
+    "text": "Memorable. Truly memorable the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02241",
+    "text": "The audacity of the thread to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02241",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02241",
+    "text": "So we're just doing the video like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02242",
+    "text": "Interesting. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02243",
+    "text": "Whatever. \ud83d\udcad",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02244",
+    "text": "Are we sure the new upload is the right move here? \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02248",
+    "text": "Bold move posting the collab reel without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02249",
+    "text": "Bold move posting the story highlight without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02249",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02250",
+    "text": "So we're just doing the thread like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02251",
+    "text": "I'll just leave the argument right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02251",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02251",
+    "text": "Seems like a big shift for the brand deal. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02251",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02251",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02251",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02251",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02252",
+    "text": "Interesting timing on the announcement.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02255",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02255",
+    "text": "That is definitely one way to do the vote.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02256",
+    "text": "That's definitely a choice for the comment section. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02259",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02259",
+    "text": "Different people have different approaches to the event.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02259",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02259",
+    "text": "Well, that just happened with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02259",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02261",
+    "text": "Look at you go with the comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02261",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02261",
+    "text": "That is definitely one way to do the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02262",
+    "text": "Can't say I saw that coming with the script.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02264",
+    "text": "I suppose that's possible with the new upload.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02264",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02264",
+    "text": "So we're just doing the thread like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02264",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02267",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02269",
+    "text": "Well, that just happened with the sound. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02269",
+    "text": "Didn't expect to see the opinion today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02270",
+    "text": "You do you with the sound.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02270",
+    "text": "You do you with the update.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02270",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02272",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02272",
+    "text": "We'll see how the video plays out. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02276",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02277",
+    "text": "That's definitely a choice for the announcement.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02277",
+    "text": "Let's see what the response to the comment thread looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02278",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02279",
+    "text": "Curious to see how the vote lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02279",
+    "text": "Fair enough. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02281",
+    "text": "So we're just doing the thread like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02282",
+    "text": "Well, that just happened with the issue.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02284",
+    "text": "Well, that just happened with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02284",
+    "text": "The audacity of the thread to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02285",
+    "text": "That's certainly an interesting take on the situation. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02286",
+    "text": "Curious to see how the issue lands. \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02287",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02287",
+    "text": "We'll see how the thread plays out. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02287",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02288",
+    "text": "I'll just leave the thread right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02290",
+    "text": "We'll see how the update plays out.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02293",
+    "text": "That is definitely one way to do the script.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02295",
+    "text": "Interesting timing on the judgment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02296",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02297",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02297",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02297",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02300",
+    "text": "Whatever. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02300",
+    "text": "We'll see how the original plays out.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02300",
+    "text": "the vote happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02300",
+    "text": "That is definitely one way to do the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02300",
+    "text": "Are we sure the post is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02300",
+    "text": "Right. \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02300",
+    "text": "Bold move posting the announcement without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02300",
+    "text": "That is definitely one way to do the raid plan.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02300",
+    "text": "Let's see what the response to the situation looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "I suppose that's possible with the comment section.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Can't say I saw that coming with the photo.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Different people have different approaches to the caption.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "That's certainly an interesting take on the project.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Didn't expect to see the strat today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Memorable. Truly memorable the task.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Curious to see how the reply lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02302",
+    "text": "Didn't expect to see the opinion today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02304",
+    "text": "So we're just doing the vote like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02304",
+    "text": "the argument happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02309",
+    "text": "the photo happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02310",
+    "text": "So we're just doing the video response like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02312",
+    "text": "Can't say I saw that coming with the submission.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02312",
+    "text": "A bit surprised given previous discussions about the opinion.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02312",
+    "text": "Not what I expected from the QT, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02312",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02312",
+    "text": "Not what I expected from the solution, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02313",
+    "text": "Classic. Just classic the reply.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02313",
+    "text": "Hard to tell until we see results from the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02314",
+    "text": "Bold move posting the collab reel without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02316",
+    "text": "I have no words for the story highlight \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02317",
+    "text": "We'll see how the video plays out. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02317",
+    "text": "Hard to tell until we see results from the project.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02318",
+    "text": "A bit surprised given previous discussions about the duet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02318",
+    "text": "I'll just leave the post right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02318",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02318",
+    "text": "Could go either way with the announcement.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02318",
+    "text": "So we're just doing the thread like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02318",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02319",
+    "text": "We'll see how the video plays out.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02319",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02320",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02320",
+    "text": "Not what I expected from the situation, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02320",
+    "text": "Didn't expect to see the strat today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02320",
+    "text": "That's definitely a choice for the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02320",
+    "text": "I guess the argument will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02320",
+    "text": "That is definitely one way to do the announcement.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02320",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02323",
+    "text": "Bold move posting the post without warning \ud83d\udc40 \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02323",
+    "text": "I have no words for the post \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02325",
+    "text": "So we're just doing the sound like this now? \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02326",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02326",
+    "text": "Well, that just happened with the argument.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02327",
+    "text": "K. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02327",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02328",
+    "text": "Can't say I saw that coming with the judgment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02328",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02329",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02329",
+    "text": "Not what I expected from the collab reel, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02329",
+    "text": "A bit surprised given previous discussions about the strat.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02329",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02329",
+    "text": "Quite a development on the tweet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02329",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02329",
+    "text": "Classic. Just classic the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02329",
+    "text": "That's definitely a choice for the collab reel.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02329",
+    "text": "Look at you go with the plan.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02330",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02331",
+    "text": "Bold move posting the project without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02332",
+    "text": "Can't say I saw that coming with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02333",
+    "text": "the thread happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02336",
+    "text": "Logging off after seeing the series format. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02336",
+    "text": "Hard to tell until we see results from the take.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02336",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02338",
+    "text": "Interesting.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02339",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02340",
+    "text": "the reply happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02340",
+    "text": "You do you with the update.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02341",
+    "text": "Saying nothing about the community tab. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02342",
+    "text": "That's certainly an interesting take on the QT.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02342",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02343",
+    "text": "The audacity of the thread to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02343",
+    "text": "the video happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02343",
+    "text": "Curious to see how the reply lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02344",
+    "text": "A bit surprised given previous discussions about the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02346",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02346",
+    "text": "the thread happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02346",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02346",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02348",
+    "text": "The way the solution just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02349",
+    "text": "Not what I expected from the comment section, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02349",
+    "text": "I'll just leave the photo right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02349",
+    "text": "Logging off after seeing the series format. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02350",
+    "text": "Memorable. Truly memorable the announcement.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02350",
+    "text": "Let's see what the response to the plan looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02350",
+    "text": "Can't say I saw that coming with the photo.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02350",
+    "text": "Are we sure the new upload is the right move here? \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02351",
+    "text": "Curious to see how the thread lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02351",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02351",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02351",
+    "text": "Hard to tell until we see results from the new upload.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02351",
+    "text": "That is definitely one way to do the sound.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02351",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02351",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02351",
+    "text": "Sure. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02351",
+    "text": "The way the plan just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02353",
+    "text": "the brand deal happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02353",
+    "text": "Bold move posting the comment without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02353",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02354",
+    "text": "I suppose that's possible with the situation. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02354",
+    "text": "That's definitely a choice for the tweet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02355",
+    "text": "I'll just leave the judgment right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02356",
+    "text": "Memorable. Truly memorable the announcement.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02356",
+    "text": "The audacity of the update to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02357",
+    "text": "Didn't expect to see the duet today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02357",
+    "text": "Seems like a big shift for the brand deal. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02357",
+    "text": "Fair enough. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02357",
+    "text": "A bit surprised given previous discussions about the solution.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02357",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02357",
+    "text": "I hear what you're saying about the comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02359",
+    "text": "I'll just leave the thread right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02359",
+    "text": "I'll just leave the script right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02359",
+    "text": "Let's see what the response to the opinion looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02359",
+    "text": "Are we sure the situation is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02359",
+    "text": "So we're just doing the brand deal like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02359",
+    "text": "We'll see how the sound plays out.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02359",
+    "text": "The way the announcement just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02359",
+    "text": "Didn't expect to see the QT today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02361",
+    "text": "Can't say I saw that coming with the video response.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02361",
+    "text": "Bold move posting the comment without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02361",
+    "text": "Seems like a big shift for the TikTok. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02361",
+    "text": "Didn't expect to see the story highlight today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02362",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02362",
+    "text": "Could go either way with the trend.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02362",
+    "text": "The way the QT just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02363",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02365",
+    "text": "Could go either way with the comment thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02365",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02366",
+    "text": "the brand deal happened and I have thoughts. Many thoughts. \ud83d\ude36",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02366",
+    "text": "Seems like a big shift for the brand deal. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02366",
+    "text": "Curious to see how the submission lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02366",
+    "text": "the caption happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02366",
+    "text": "I'll just leave the video response right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02367",
+    "text": "I have no words for the choice \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02367",
+    "text": "I hear what you're saying about the QT.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02370",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02370",
+    "text": "That's certainly an interesting take on the opinion.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02371",
+    "text": "I guess the reply will tell us if this works. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02371",
+    "text": "Understood. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02371",
+    "text": "Could go either way with the opinion.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02372",
+    "text": "That's definitely a choice for the comment section.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02372",
+    "text": "I guess the judgment will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02372",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02372",
+    "text": "I'll just leave the thread right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02372",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02373",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02374",
+    "text": "Sure thing. \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02376",
+    "text": "That's definitely a choice for the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02376",
+    "text": "Didn't expect to see the duet today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02377",
+    "text": "I'll just leave the judgment right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02377",
+    "text": "Understood. \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02379",
+    "text": "Let's see what the response to the duet looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02380",
+    "text": "That's definitely a choice for the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02381",
+    "text": "I suppose that's possible with the plan.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02382",
+    "text": "I guess the sound will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02382",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02382",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02382",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02382",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02382",
+    "text": "Curious to see how the caption lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02383",
+    "text": "I suppose that's possible with the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02383",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02384",
+    "text": "Logging off after seeing the solution. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02384",
+    "text": "A bit surprised given previous discussions about the draft.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02387",
+    "text": "You do you with the sound.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02388",
+    "text": "Fair enough. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02388",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02390",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02392",
+    "text": "So we're just doing the script like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02393",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02393",
+    "text": "Seems like a big shift for the original. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02393",
+    "text": "Interesting timing on the sound. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02393",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02393",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02393",
+    "text": "Bold move posting the collab reel without warning \ud83d\udc40 \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02394",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02394",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02397",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02397",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02397",
+    "text": "Can't say I saw that coming with the announcement.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02397",
+    "text": "Are we sure the tweet is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02397",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02397",
+    "text": "Curious to see how the announcement lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02397",
+    "text": "Are we sure the trend is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02397",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02397",
+    "text": "Seems like a big shift for the video response. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02398",
+    "text": "Hard to tell until we see results from the tweet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02398",
+    "text": "the vote happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02399",
+    "text": "the task happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02399",
+    "text": "Memorable. Truly memorable the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02399",
+    "text": "Classic. Just classic the sound.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02400",
+    "text": "Sure thing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02401",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02402",
+    "text": "Logging off after seeing the comment section. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02402",
+    "text": "the thread happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02403",
+    "text": "Are we sure the story highlight is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02403",
+    "text": "the update happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02404",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02404",
+    "text": "I have no words for the QT \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02405",
+    "text": "Curious to see how the thread lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02408",
+    "text": "Different people have different approaches to the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02408",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02408",
+    "text": "Seems like a big shift for the submission. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02411",
+    "text": "Saying nothing about the situation. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02411",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02411",
+    "text": "We'll see how the thread plays out.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02411",
+    "text": "So we're just doing the caption like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02411",
+    "text": "The audacity of the photo to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02411",
+    "text": "Didn't expect to see the new upload today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02412",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02415",
+    "text": "The audacity of the thread to show up on my feed today. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02415",
+    "text": "the event happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02415",
+    "text": "Seems like a big shift for the original. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02415",
+    "text": "Didn't expect to see the comment thread today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02415",
+    "text": "Understood.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02417",
+    "text": "I hear what you're saying about the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02417",
+    "text": "Are we sure the choice is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02417",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02417",
+    "text": "Classic. Just classic the video response.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02417",
+    "text": "That is definitely one way to do the update.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02417",
+    "text": "Saying nothing about the situation. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02419",
+    "text": "A bit surprised given previous discussions about the duet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02420",
+    "text": "The audacity of the video to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02421",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02421",
+    "text": "Bold move posting the trend without warning \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02422",
+    "text": "Hmm. That's one perspective on the video response.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02423",
+    "text": "Seems like a big shift for the vote. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02423",
+    "text": "I suppose that's possible with the tweet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02424",
+    "text": "Curious to see how the announcement lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02424",
+    "text": "So we're just doing the thread like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02424",
+    "text": "Not what I expected from the project, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02424",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02424",
+    "text": "Logging off after seeing the project. Need a minute. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02424",
+    "text": "Seems like a big shift for the video. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02425",
+    "text": "Well, that just happened with the brand deal.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02426",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02426",
+    "text": "Not what I expected from the project, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02430",
+    "text": "The audacity of the thread to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02431",
+    "text": "Fair enough. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02431",
+    "text": "That's definitely a choice for the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02433",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02433",
+    "text": "the post happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02433",
+    "text": "the thread happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02434",
+    "text": "the TikTok happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02435",
+    "text": "As expected. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02435",
+    "text": "Classic. Just classic the update.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02435",
+    "text": "Understood. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "A bit surprised given previous discussions about the comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "Saying nothing about the situation. Absolutely nothing. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "The audacity of the event to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "Seems like a big shift for the video. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "Can't say I saw that coming with the caption.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "Hmm. That's one perspective on the submission.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "Can't say I saw that coming with the task.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "Curious to see how the original lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02437",
+    "text": "The audacity of the thread to show up on my feed today. \ud83d\udcad",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02438",
+    "text": "I'll just leave the argument right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02438",
+    "text": "The audacity of the event to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02440",
+    "text": "The audacity of the thread to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02442",
+    "text": "Noted. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02442",
+    "text": "Not what I expected from the strat, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02444",
+    "text": "Are we sure the situation is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02444",
+    "text": "Can't say I saw that coming with the submission.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02444",
+    "text": "I guess the event will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02445",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02445",
+    "text": "Seems like a big shift for the event. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02445",
+    "text": "Sure thing. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02447",
+    "text": "So we're just doing the original like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02449",
+    "text": "Quite a development on the collab reel. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02449",
+    "text": "I guess the submission will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02449",
+    "text": "Classic. Just classic the argument.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02450",
+    "text": "Could go either way with the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02450",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02450",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02450",
+    "text": "Saying nothing about the plan. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02450",
+    "text": "The audacity of the video to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02451",
+    "text": "Didn't expect to see the draft today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02451",
+    "text": "Look at you go with the tweet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02451",
+    "text": "Let's see what the response to the take looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02452",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02452",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02453",
+    "text": "You do you with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02453",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02453",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02453",
+    "text": "Sure thing. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02453",
+    "text": "Well, that just happened with the argument.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02455",
+    "text": "the raid plan happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02455",
+    "text": "That's certainly an interesting take on the duet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02455",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02455",
+    "text": "Saying nothing about the situation. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02455",
+    "text": "Hard to tell until we see results from the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02455",
+    "text": "Okay.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02456",
+    "text": "the video happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02457",
+    "text": "Are we sure the comment thread is the right move here? \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02458",
+    "text": "Different people have different approaches to the video response.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02458",
+    "text": "I hear what you're saying about the comment thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02458",
+    "text": "Hard to tell until we see results from the opinion.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02458",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02458",
+    "text": "the brand deal happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02458",
+    "text": "Saying nothing about the plan. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02459",
+    "text": "That's definitely a choice for the comment thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02459",
+    "text": "Curious to see how the issue lands.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02459",
+    "text": "Didn't expect to see the announcement today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02459",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02459",
+    "text": "Sure thing. \ud83d\udcad",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02459",
+    "text": "Let's see what the response to the duet looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02459",
+    "text": "I'll just leave the judgment right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02459",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02459",
+    "text": "Quite a development on the collab reel. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02460",
+    "text": "Got it.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02460",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02460",
+    "text": "Saying nothing about the duet. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02460",
+    "text": "I'll just leave the post right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02460",
+    "text": "Could go either way with the QT.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02463",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02463",
+    "text": "the video happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02465",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02466",
+    "text": "Quite a development on the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02466",
+    "text": "I suppose that's possible with the story highlight. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02466",
+    "text": "I guess the argument will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02466",
+    "text": "You do you with the vote.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02466",
+    "text": "the TikTok happened and I have thoughts. Many thoughts.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02466",
+    "text": "Interesting. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "Didn't expect to see the opinion today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "I suppose that's possible with the plan.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "The way the take just dropped with no context\u2026",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "Not what I expected from the comment section, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "Whatever.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "Saying nothing about the take. Absolutely nothing. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "The audacity of the vote to show up on my feed today.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "Can't say I saw that coming with the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "I have no words for the choice \ud83d\udc80",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "I guess the thread will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "Sure.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "K.",
+    "label": "ambiguous",
+    "reason": "length_out_of_bounds",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02467",
+    "text": "I guess the issue will tell us if this works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02468",
+    "text": "Could go either way with the story highlight.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02468",
+    "text": "So we're just doing the video like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02468",
+    "text": "Saying nothing about the comment section. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02468",
+    "text": "We'll see how the thread plays out.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02468",
+    "text": "So we're just doing the video like this now?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02469",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02470",
+    "text": "Interesting timing on the judgment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02470",
+    "text": "I suppose that's possible with the situation.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02470",
+    "text": "Let's see what the response to the collab reel looks like. \ud83e\udd14",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02470",
+    "text": "Logging off after seeing the situation. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02471",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02471",
+    "text": "A bit surprised given previous discussions about the new upload. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02472",
+    "text": "Could go either way with the comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02475",
+    "text": "I suppose that's possible with the draft. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02476",
+    "text": "Logging off after seeing the trend. Need a minute.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02476",
+    "text": "I'll just leave the script right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02477",
+    "text": "A bit surprised given previous discussions about the strat.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02477",
+    "text": "Noted.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02477",
+    "text": "Saying nothing about the comment section. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02477",
+    "text": "Will do.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02477",
+    "text": "Hard to tell until we see results from the opinion.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02477",
+    "text": "Logging off after seeing the plan. Need a minute. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02477",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02478",
+    "text": "Saying nothing about the take. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02478",
+    "text": "I suppose that's possible with the take.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02479",
+    "text": "Let's see what the response to the new look looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02483",
+    "text": "Fair enough. \ud83e\udd37",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02483",
+    "text": "Fine.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02483",
+    "text": "Look at you go with the post.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02484",
+    "text": "As expected.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02484",
+    "text": "Understood. \ud83d\ude36",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02484",
+    "text": "Didn't expect to see the draft today \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02484",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02485",
+    "text": "Interesting. \ud83d\ude10",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02485",
+    "text": "Right.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02486",
+    "text": "Are we sure the duet is the right move here?",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02487",
+    "text": "Quite a development on the solution.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02490",
+    "text": "I'll just leave the task right here without comment.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02491",
+    "text": "Seems like a big shift for the vote. Hope it works. \ud83e\uddd0",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02491",
+    "text": "Can't say I saw that coming with the event.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02491",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02493",
+    "text": "Seems like a big shift for the submission. Hope it works.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02493",
+    "text": "Classic. Just classic the TikTok.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02494",
+    "text": "Saying nothing about the situation. Absolutely nothing.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02494",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02495",
+    "text": "Fair enough. \ud83d\ude36",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02495",
+    "text": "A bit surprised given previous discussions about the tweet.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02497",
+    "text": "Classic. Just classic the thread.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02497",
+    "text": "I have no words for the choice \ud83d\udc80 \ud83d\ude36",
+    "label": "ambiguous",
+    "reason": "near_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02497",
+    "text": "Cool.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02499",
+    "text": "We'll see how the script plays out. \ud83d\udc40",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02499",
+    "text": "Fair enough.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02499",
+    "text": "Let's see what the response to the solution looks like.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  },
+  {
+    "id": "SYNPA-02500",
+    "text": "Not what I expected from the project, but let's wait and see.",
+    "label": "ambiguous",
+    "reason": "exact_duplicate",
+    "batch": "batch1"
+  }
+]

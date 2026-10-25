@@ -1,0 +1,94 @@
+{
+  "backend\\pa_detector.db": {
+    "size_bytes": 65536,
+    "sha256": "7c964e824865cc19660a4d5c2a947a9e55564c3ec93617f8dbca72bb89524ec8"
+  },
+  "models\\pa_classifier.pkl": {
+    "size_bytes": 7870683,
+    "sha256": "9ba6e1533ec2e83c00b18b0c289e2fd5cd9b5d6a10d39a5295161f072af761f9"
+  },
+  "models\\pa_classifier_v2.pkl": {
+    "size_bytes": 1338676,
+    "sha256": "998b5c7f51b460d9e3e6cf569bb6d7360df75d67e9b2e79637e66487b981dc75"
+  },
+  "models\\threat_classifier_v1.pkl": {
+    "size_bytes": 895468,
+    "sha256": "c184640f05c2480ddcbdb4f564b17609ef4750d5d6da4857ff1e3f2f38516bee"
+  },
+  "data\\annotations\\annotation_guidelines.md": {
+    "size_bytes": 7942,
+    "sha256": "4217289c0781627bee85ae0988ea8bd37dfecb15559846d45edb088562c51dcb"
+  },
+  "data\\annotations\\annotation_queue.csv": {
+    "size_bytes": 1174,
+    "sha256": "f218de801bce57927db9c1ebffe4e9d3e2cf693064d7fd4ef8b11493e230462a"
+  },
+  "data\\annotations\\annotation_template.csv": {
+    "size_bytes": 10256,
+    "sha256": "3da22829c627ad8293dae1edc10458f028e3ea23652cfcb3f902e7496eab0437"
+  },
+  "data\\processed\\pa_dataset.csv": {
+    "size_bytes": 2313860,
+    "sha256": "4b1d8f8e8014497d77c6140122b1077a3e9e0719b9d365428a807a9573c67d71"
+  },
+  "data\\processed\\unified_corpus.csv": {
+    "size_bytes": 2482469,
+    "sha256": "aeff5ac889a96bfa8764b0b6b605b06129f04f904efe9f21e1d2d1e60734bed1"
+  },
+  "data\\synthetic\\batch1_SYNPA_00001_02500.csv": {
+    "size_bytes": 1228399,
+    "sha256": "1f2770b9550daf1f0ea207f128137fb0f7952deddc21792c8637bdac220a7734"
+  },
+  "data\\synthetic\\batch2_SYNPA_02501_05000.csv": {
+    "size_bytes": 1214784,
+    "sha256": "0d5ce18d17e96867a7276e2d652329f6edc1ad64745b1de29c8c2cca51b4cbfe"
+  },
+  "data\\synthetic\\batch3_SYNPA_05001_07500.csv": {
+    "size_bytes": 903796,
+    "sha256": "ee9b00abade2ff9ce646caf2a4eea281ba72a8b86a8b5fd98316c042d2545d7f"
+  },
+  "data\\synthetic\\batch4_SYNPA_07501_10000.csv": {
+    "size_bytes": 832407,
+    "sha256": "88d3958f2e1c281e060773b20f978858579e83f44574a47ef4a5e7032f88ae4d"
+  },
+  "data\\synthetic\\pa_synthetic_merged.csv": {
+    "size_bytes": 4294438,
+    "sha256": "6b04e13e06904745de15ddd5d41f6ba1657c5b1f6f3f93999a6bc659c450db56"
+  },
+  "data\\synthetic\\pa_synthetic_merged.jsonl": {
+    "size_bytes": 7661106,
+    "sha256": "91c161ca9e81998725c32381d497d8516533a9d31ee57aa74d455e2f3199f028"
+  },
+  "data\\synthetic\\supplement_SYNPA.csv": {
+    "size_bytes": 116100,
+    "sha256": "f7c860a272503fd5112128e0bdafb4d6197be1026c517dbf34b41db58e9d0fa7"
+  },
+  "models\\registry\\active_model.json": {
+    "size_bytes": 29987,
+    "sha256": "dc8843c99542069c727d7252f74d5baf272dd519b7ae002a24980cbc1a0cd09c"
+  },
+  "models\\xlmr_pa_detector\\config.json": {
+    "size_bytes": 923,
+    "sha256": "b4c91bb8b6e1ae7f8160597873e77ad4ebd23a2c548512eaf343fd53a84e59e3"
+  },
+  "models\\xlmr_pa_detector\\model.safetensors": {
+    "size_bytes": 1112208084,
+    "sha256": "b2ebb7dc3ca48a6985feff35134399c1af4c2a40619de3931321cb8507db23d7"
+  },
+  "models\\xlmr_pa_detector\\sentencepiece.bpe.model": {
+    "size_bytes": 5069051,
+    "sha256": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865"
+  },
+  "models\\xlmr_pa_detector\\special_tokens_map.json": {
+    "size_bytes": 1015,
+    "sha256": "66715ae6a0dd4aff4fe228bcaaccac6e52c83fd0ba80992c2be7d0e43b362307"
+  },
+  "models\\xlmr_pa_detector\\tokenizer.json": {
+    "size_bytes": 17082999,
+    "sha256": "3c088c06cf975b7097e469bd69630cdb0d675c6db1ce3af1042b6e19c6d01f22"
+  },
+  "models\\xlmr_pa_detector\\tokenizer_config.json": {
+    "size_bytes": 1233,
+    "sha256": "185f40a89596c504fd7dc7d91515b95844aab2994e778560df9215e0d1164264"
+  }
+}
