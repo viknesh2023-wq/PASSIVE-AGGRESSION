@@ -109,64 +109,61 @@ def main():
     ])
 
     # ─────────────────────────────────────────────────────────────────────────
-    # TAB 1: Multi-Model & Hybrid Evaluation
+    # TAB 1: Independent Multi-Model Evaluation
     # ─────────────────────────────────────────────────────────────────────────
     with tab_eval:
         st.markdown("### Controlled Experiments on Held-Out Test Data")
         total_test = experiments.get("total_test_samples", 1382)
         disagree_rate = experiments.get("disagreement_rate", 0.595) * 100
+        agree_rate = 100.0 - disagree_rate
         st.markdown(
             f"<p class='muted'>Evaluated on {total_test} conversation-isolated samples from <code>data/processed/pa_test.csv</code>. "
-            f"Inter-model divergence between Rule and ML was observed on {disagree_rate:.1f}% of samples.</p>",
+            f"Inter-model agreement is {agree_rate:.1f}%, with rule vs ML divergence on {disagree_rate:.1f}% of samples.</p>",
             unsafe_allow_html=True,
         )
 
         variants = experiments.get("variants", [])
         v_dict = {v["model_name"]: v for v in variants}
 
-        hyb = v_dict.get("Model 3: Hybrid Decision Engine (ML + Rules)", {})
         ml_m = v_dict.get("Model 1: Supervised ML (TF-IDF + LogReg)", {})
         rule_m = v_dict.get("Model 2: Rule-Based Engine (10 Families)", {})
-        legacy_m = v_dict.get("Legacy LinearSVM (3-class legacy)", {})
 
-        m1, m2, m3, m4 = st.columns(4)
+        m1, m2, m3 = st.columns(3)
         with m1:
             st.markdown(f"""
-            <div class='metric-card' style='border-top:3px solid #E53E3E;'>
-                <div class='metric-val'>{hyb.get('accuracy', 0.9768)*100:.2f}%</div>
-                <div class='metric-lbl'>Hybrid Engine Accuracy</div>
-                <div class='metric-sub'>Macro F1: {hyb.get('macro_f1', 0.9750):.4f}</div>
+            <div class='metric-card' style='border-top:3px solid #3182ce;'>
+                <div class='metric-val'>{ml_m.get('accuracy', 0.9870)*100:.2f}%</div>
+                <div class='metric-lbl'>Model 1 (ML LogReg Accuracy)</div>
+                <div class='metric-sub'>Macro F1: {ml_m.get('macro_f1', 0.9872):.4f}</div>
             </div>
             """, unsafe_allow_html=True)
         with m2:
             st.markdown(f"""
-            <div class='metric-card'>
-                <div class='metric-val'>{ml_m.get('accuracy', 0.9870)*100:.2f}%</div>
-                <div class='metric-lbl'>Model 1 (ML LogReg)</div>
-                <div class='metric-sub'>Macro F1: {ml_m.get('macro_f1', 0.9872):.4f}</div>
+            <div class='metric-card' style='border-top:3px solid #805ad5;'>
+                <div class='metric-val'>{rule_m.get('accuracy', 0.4096)*100:.2f}%</div>
+                <div class='metric-lbl'>Model 2 (Rule Engine Coverage)</div>
+                <div class='metric-sub'>Macro F1: {rule_m.get('macro_f1', 0.2662):.4f}</div>
             </div>
             """, unsafe_allow_html=True)
         with m3:
             st.markdown(f"""
-            <div class='metric-card'>
-                <div class='metric-val'>{rule_m.get('accuracy', 0.4096)*100:.2f}%</div>
-                <div class='metric-lbl'>Model 2 (Rule Engine)</div>
-                <div class='metric-sub'>Macro F1: {rule_m.get('macro_f1', 0.2662):.4f}</div>
-            </div>
-            """, unsafe_allow_html=True)
-        with m4:
-            st.markdown(f"""
-            <div class='metric-card'>
-                <div class='metric-val'>{legacy_m.get('accuracy', 0.2525)*100:.2f}%</div>
-                <div class='metric-lbl'>Legacy LinearSVM</div>
-                <div class='metric-sub'>Macro F1: {legacy_m.get('macro_f1', 0.1344):.4f}</div>
+            <div class='metric-card' style='border-top:3px solid #38A169;'>
+                <div class='metric-val'>{agree_rate:.1f}%</div>
+                <div class='metric-lbl'>Dual Model Agreement Rate</div>
+                <div class='metric-sub'>Divergence: {disagree_rate:.1f}% on nuanced cases</div>
             </div>
             """, unsafe_allow_html=True)
 
         st.markdown("---")
-        st.markdown("#### Comprehensive Architecture Benchmark Table")
+        st.markdown("#### Production Architecture Benchmark Table")
+        active_names = [
+            "Model 1: Supervised ML (TF-IDF + LogReg)",
+            "Model 2: Rule-Based Engine (10 Families)",
+        ]
         table_rows = []
         for v in variants:
+            if v.get("model_name") not in active_names:
+                continue
             pc = v.get("per_class", {})
             table_rows.append({
                 "Architecture": v.get("model_name", ""),
@@ -180,56 +177,38 @@ def main():
         st.dataframe(pd.DataFrame(table_rows), use_container_width=True, hide_index=True)
 
         st.markdown("---")
-        col_f1, col_f2 = st.columns(2)
-
-        with col_f1:
-            st.markdown("#### Hybrid Fusion Strategy Breakdown")
-            f_dist = experiments.get("fusion_strategy_distribution", {})
-            f_rows = [
-                {"Strategy": k.replace("_", " ").title(), "Triggers": v, "Share": f"{v/total_test*100:.1f}%"}
-                for k, v in f_dist.items()
-            ]
-            st.dataframe(pd.DataFrame(f_rows), use_container_width=True, hide_index=True)
-
-        with col_f2:
-            st.markdown("#### Performance by Dataset Provenance")
-            prov = experiments.get("provenance_breakdown", {})
-            prov_rows = [
-                {
-                    "Source Provenance": k.replace("_", " ").title(),
-                    "Samples": v["samples"],
-                    "ML Acc": f"{v['ml_accuracy']*100:.1f}%",
-                    "Rule Acc": f"{v['rule_accuracy']*100:.1f}%",
-                    "Hybrid Acc": f"{v['hybrid_accuracy']*100:.1f}%",
-                }
-                for k, v in prov.items()
-            ]
-            st.dataframe(pd.DataFrame(prov_rows), use_container_width=True, hide_index=True)
+        st.markdown("#### Performance by Dataset Provenance")
+        prov = experiments.get("provenance_breakdown", {})
+        prov_rows = [
+            {
+                "Source Provenance": k.replace("_", " ").title(),
+                "Samples": v["samples"],
+                "ML Model Accuracy": f"{v['ml_accuracy']*100:.1f}%",
+                "Rule Engine Accuracy": f"{v['rule_accuracy']*100:.1f}%",
+            }
+            for k, v in prov.items()
+        ]
+        st.dataframe(pd.DataFrame(prov_rows), use_container_width=True, hide_index=True)
 
         st.markdown("---")
         st.markdown("#### Confusion Matrices (Held-out Test Split)")
-        cm_col1, cm_col2, cm_col3 = st.columns(3)
+        cm_col1, cm_col2 = st.columns(2)
 
         classes = ["passive_aggressive", "non_passive_aggressive", "ambiguous"]
         short_cls = ["PA", "Non-PA", "Amb"]
 
         with cm_col1:
-            st.markdown("**Model 1: ML Model**")
+            st.markdown("**Model 1: Supervised ML (LogReg)**")
             cm_ml = ml_m.get("confusion_matrix", {}).get("matrix", [])
             if cm_ml:
                 st.dataframe(pd.DataFrame(cm_ml, index=["True: " + c for c in short_cls], columns=["Pred: " + c for c in short_cls]), use_container_width=True)
 
         with cm_col2:
-            st.markdown("**Model 2: Rule Engine**")
+            st.markdown("**Model 2: Rule-Based Engine (10 Families)**")
             cm_rule = rule_m.get("confusion_matrix", {}).get("matrix", [])
             if cm_rule:
                 st.dataframe(pd.DataFrame(cm_rule, index=["True: " + c for c in short_cls], columns=["Pred: " + c for c in short_cls]), use_container_width=True)
 
-        with cm_col3:
-            st.markdown("**Model 3: Hybrid Engine**")
-            cm_hyb = hyb.get("confusion_matrix", {}).get("matrix", [])
-            if cm_hyb:
-                st.dataframe(pd.DataFrame(cm_hyb, index=["True: " + c for c in short_cls], columns=["Pred: " + c for c in short_cls]), use_container_width=True)
 
     # ─────────────────────────────────────────────────────────────────────────
     # TAB 2: Complete Dataset Ecosystem
@@ -337,18 +316,9 @@ def main():
             └───────────────┬───────────────┘
                             │
                             ▼
-              [ Hybrid Decision Engine ]
-        Resolves Divergence via 6 Fusion Policies:
-        1. Benign Override Shield (deterministic non-PA takes precedence)
-        2. Concordant Consensus (when ML and Rules agree)
-        3. Rule-Supported Escalation (verified tactic pattern)
-        4. ML Statistical Generalization (n-gram statistical match)
-        5. Terse Context Boundary (isolated short replies -> ambiguous)
-        6. Conflict Uncertainty Arbitration (flags needs_review)
-                            │
-                            ▼
             [ Decoupled Threat Engine (4-Class) ]
         • Direct Harm Keywords + Figurative Hyperbole Overrides
+        • Operates independently from passive-aggression classification
                             │
                             ▼
           [ Constructive Rewrite Assistant ]

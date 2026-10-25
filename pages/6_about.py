@@ -87,8 +87,8 @@ Passive aggression on social media rarely manifests as direct profanity or overt
           └──────────────────────────┬──────────────────────────┘
                                      │
                                      ▼
-                     [ Hybrid Decision Engine Layer ]
-                  (6 Fusion Policies, Divergence Arbitration)
+             [ Independent Dual-Model & Threat Layer ]
+              (Direct Model 1 ML + Model 2 Rule Inspection)
                                      │
           ┌──────────────────────────┴──────────────────────────┐
           ▼                                                     ▼
