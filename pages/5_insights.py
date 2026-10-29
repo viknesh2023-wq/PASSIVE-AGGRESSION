@@ -176,19 +176,6 @@ def main():
             })
         st.dataframe(pd.DataFrame(table_rows), use_container_width=True, hide_index=True)
 
-        st.markdown("---")
-        st.markdown("#### Performance by Dataset Provenance")
-        prov = experiments.get("provenance_breakdown", {})
-        prov_rows = [
-            {
-                "Source Provenance": k.replace("_", " ").title(),
-                "Samples": v["samples"],
-                "ML Model Accuracy": f"{v['ml_accuracy']*100:.1f}%",
-                "Rule Engine Accuracy": f"{v['rule_accuracy']*100:.1f}%",
-            }
-            for k, v in prov.items()
-        ]
-        st.dataframe(pd.DataFrame(prov_rows), use_container_width=True, hide_index=True)
 
         st.markdown("---")
         st.markdown("#### Confusion Matrices (Held-out Test Split)")
